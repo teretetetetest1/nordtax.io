@@ -206,12 +206,12 @@ body, body * {
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1285"><a href="https://onetenth2.mycafe24.com/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/"><span class="ui-menu-item-wrapper">고객지원</span></a>
 <ul class="sub-menu">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-795"><a href="https://onetenth2.mycafe24.com/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/"><span class="ui-menu-item-wrapper">공지사항</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-796"><a href="https://onetenth2.mycafe24.com/%eb%89%b4%ec%8a%a4/"><span class="ui-menu-item-wrapper">뉴스</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-797"><a href="https://onetenth2.mycafe24.com/faq/"><span class="ui-menu-item-wrapper">자주묻는질문</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-798"><a href="https://onetenth2.mycafe24.com/contact/"><span class="ui-menu-item-wrapper">문의하기</span></a></li>
-</ul>
+<li class="menu-item menu-item-type-custom menu-item-3sec-button" style="margin-left: 20px;">
+  <a href="mailto:parj1110@gmail.com">
+    <span class="ui-menu-item-wrapper">3초만에 문의하기</span>
+  </a>
 </li>
+
 </ul></div><div class="uicore uicore-extra" data-uils="header_extra" data-uils-title="Header Extras"> <div class="uicore-cta-wrapper" style="margin-left: -40px;">
 <a class="uicore-btn" href="mailto:parj1110@gmail.com" target="_self">
 <span class="elementor-button-text">
