@@ -1053,7 +1053,7 @@ body, body * {
 <div class="elementor-element elementor-element-91344be elementor-widget elementor-widget-heading" data-element_type="widget" data-id="91344be" data-widget_type="heading.default">
 <div class="elementor-widget-container">
 <h2 class="elementor-heading-title elementor-size-default">비즈니스 성공을 위한 필수 절세 전략 솔루션<br/>
-십분의 일과 함께 하세요</h2> </div>
+Nord tax과 함께 하세요</h2> </div>
 </div>
 <div class="elementor-element elementor-element-3a2fb10 elementor-align-center elementor-widget elementor-widget-button" data-element_type="widget" data-id="3a2fb10" data-widget_type="button.default">
 <div class="elementor-widget-container">
@@ -1192,7 +1192,7 @@ body, body * {
 <div class="elementor-element elementor-element-3f64a7a e-con-full e-flex e-con e-child" data-element_type="container" data-id="3f64a7a">
 <div class="elementor-element elementor-element-a356e83 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="a356e83" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<div class="elementor-heading-title elementor-size-default">One-tenth. All rights reserved.</div> </div>
+<div class="elementor-heading-title elementor-size-default">Nord Tax. All rights reserved.</div> </div>
 </div>
 </div>
 </div>
