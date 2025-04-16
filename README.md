@@ -211,14 +211,14 @@ body, body * {
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-798"><a href="https://onetenth2.mycafe24.com/contact/"><span class="ui-menu-item-wrapper">문의하기</span></a></li>
 </ul>
 </li>
-</ul></div><div class="uicore uicore-extra" data-uils="header_extra" data-uils-title="Header Extras"> <div class="uicore-cta-wrapper" style="margin-left: -40px;">
+</ul></div><div class="uicore uicore-extra" data-uils="header_extra" data-uils-title="Header Extras"> <div class="uicore-cta-wrapper">
 <a class="uicore-btn" href="mailto:parj1110@gmail.com" target="_self">
 <span class="elementor-button-text">
-	3초만에 문의하기                    </span>
+						3초만에 문의하기                    </span>
 </a>
 </div>
 </div> </div>
-<div class="uicore-mobile-head-right"> <div class="uicore-cta-wrapper" style="margin-left: -40px;">
+<div class="uicore-mobile-head-right"> <div class="uicore-cta-wrapper">
 <a class="uicore-btn" href="mailto:parj1110@gmail.com" target="_self">
 <span class="elementor-button-text">
 						3초만에 문의하기                    </span>
