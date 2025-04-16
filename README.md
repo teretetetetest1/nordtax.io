@@ -326,7 +326,18 @@ body, body * {
 <div class="elementor-element elementor-element-2125a9e e-con-full e-flex e-con e-child" data-element_type="container" data-id="2125a9e">
 <div class="elementor-element elementor-element-ec36a26 elementor-invisible elementor-widget elementor-widget-image" data-element_type="widget" data-id="ec36a26" data-settings='{"_animation":"fadeInUp","_animation_delay":"0"}' data-widget_type="image.default">
 <div class="elementor-widget-container">
-<img alt="" class="attachment-large size-large wp-image-984" decoding="async" height="667" loading="lazy" sizes="(max-width: 1000px) 100vw, 1000px" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/team-people-1024x683.jpg" srcset="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/team-people-1024x683.jpg 1024w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/team-people-300x200.jpg 300w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/team-people-768x512.jpg 768w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/team-people-1536x1024.jpg 1536w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/team-people-650x433.jpg 650w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/team-people.jpg 1920w" width="1000"/> </div>
+<img
+  alt=""
+  class="attachment-large size-large wp-image-984"
+  decoding="async"
+  height="667"
+  loading="lazy"
+  sizes="(max-width: 1000px) 100vw, 1000px"
+  src="https://github.com/teretetetetest1/nord1.github.io/raw/main/girl1_1000667.png"
+  srcset="https://github.com/teretetetetest1/nord1.github.io/raw/main/girl1_1000667.png 1000w"
+  width="1000"
+/>
+</div>
 </div>
 </div>
 <div class="elementor-element elementor-element-b59ff8e e-con-full e-flex e-con e-child" data-element_type="container" data-id="b59ff8e">
