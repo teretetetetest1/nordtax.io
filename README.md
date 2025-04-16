@@ -512,11 +512,11 @@ body, body * {
 <div class="e-con-inner">
 <div class="elementor-element elementor-element-ec40949 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="ec40949" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<div class="elementor-heading-title elementor-size-default">수 많은 사용자분들이 증명합니다</div> </div>
+<div class="elementor-heading-title elementor-size-default">클라이언트의 만족도가 증명합니다</div> </div>
 </div>
 <div class="elementor-element elementor-element-0000cf0 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0000cf0" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">고객님들의 재구매로 증명합니다</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">클라이언트 리뷰로 증명합니다</h2> </div>
 </div>
 </div>
 </div>
