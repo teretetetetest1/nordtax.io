@@ -1186,7 +1186,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-25c81b1 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="25c81b1" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>상호명: Nord Tax<br>대표: 안상언<br>사업자등록번호: 274-01-02718 <br/>주소: 서울특별시 관악구</br></br></p> </div>
+<p>상호명: Nord Tax<br>대표: 안지홍 <br>사업자등록번호: 123123=123123 <br/>주소: 1234 Virginia, 123123</br></br></p> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-3f64a7a e-con-full e-flex e-con e-child" data-element_type="container" data-id="3f64a7a">
