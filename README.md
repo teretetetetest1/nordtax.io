@@ -192,17 +192,6 @@ body, body * {
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-788"><a href="https://onetenth2.mycafe24.com/%ec%98%a4%ec%8b%9c%eb%8a%94-%ea%b8%b8/"><span class="ui-menu-item-wrapper">오시는 길</span></a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1283"><a href="https://onetenth2.mycafe24.com/%ec%82%ac%ec%97%85%eb%b6%84%ec%95%bc-%eb%94%94%ec%9e%90%ec%9d%b8-1/"><span class="ui-menu-item-wrapper">사업분야</span></a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-790"><a href="https://onetenth2.mycafe24.com/%ec%82%ac%ec%97%85%eb%b6%84%ec%95%bc-%eb%94%94%ec%9e%90%ec%9d%b8-1/"><span class="ui-menu-item-wrapper">사업분야 디자인 1</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-791"><a href="https://onetenth2.mycafe24.com/%ec%82%ac%ec%97%85%eb%b6%84%ec%95%bc-%eb%94%94%ec%9e%90%ec%9d%b8-2/"><span class="ui-menu-item-wrapper">사업분야 디자인 2</span></a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1408"><a href="https://onetenth2.mycafe24.com/about-product/"><span class="ui-menu-item-wrapper">제품소개</span></a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1409"><a href="https://onetenth2.mycafe24.com/about-product/"><span class="ui-menu-item-wrapper">제품소개</span></a></li>
-</ul>
-</li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1285"><a href="https://onetenth2.mycafe24.com/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/"><span class="ui-menu-item-wrapper">고객지원</span></a>
 <ul class="sub-menu">
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-795"><a href="https://onetenth2.mycafe24.com/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/"><span class="ui-menu-item-wrapper">공지사항</span></a></li>
