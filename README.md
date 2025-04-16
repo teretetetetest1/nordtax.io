@@ -161,7 +161,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 
 				}
 			</style>
-</link></link></link></meta></link></link></link></link></link></link></link></link></link></meta></meta><style>
+</meta></meta><style>
 body, body * {
     background-color: black !important;
     background-image: none !important;
