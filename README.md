@@ -9,13 +9,13 @@
 <style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 <!-- Rank Math 검색 엔진 최적화 - https://rankmath.com/ -->
 <title>십분의일 - 마케팅 02</title><link as="image" data-rocket-preload="" fetchpriority="high" href="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/item02.png" imagesizes="(max-width: 600px) 100vw, 600px" imagesrcset="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/item02.png 600w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/item02-300x289.png 300w" rel="preload"/>
-<meta content="고퀄리티 맞춤형 웹사이트를 1/10 가격에 제공합니다. 십분의일의 템플릿은 아름다운 UI/UX 디자인과 쉬운 관리가 가능하며, 추가 관리 비용 없이 최적의 웹사이트를 제공합니다" name="description">
+<meta content="정확한, 저렴한 Tax Return" name="description">
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots">
 <link href="https://onetenth2.mycafe24.com/" rel="canonical">
 <meta content="ko_KR" property="og:locale"/>
 <meta content="website" property="og:type"/>
 <meta content="십분의일 - 마케팅 02" property="og:title"/>
-<meta content="고퀄리티 맞춤형 웹사이트를 1/10 가격에 제공합니다. 십분의일의 템플릿은 아름다운 UI/UX 디자인과 쉬운 관리가 가능하며, 추가 관리 비용 없이 최적의 웹사이트를 제공합니다" property="og:description"/>
+<meta content="CPA와 EA가 정확하고 저렴한, 최고의 Credit을 위한 Tax filing을 준비합니다." property="og:description"/>
 <meta content="https://onetenth2.mycafe24.com/" property="og:url"/>
 <meta content="십분의일 - 비즈니스 01" property="og:site_name"/>
 <meta content="2025-02-17T12:12:28+09:00" property="og:updated_time"/>
@@ -244,15 +244,15 @@ body, body * {
 <div class="elementor-element elementor-element-e1dea69 e-con-full e-flex e-con e-child" data-element_type="container" data-id="e1dea69">
 <div class="elementor-element elementor-element-c49486f elementor-invisible elementor-widget elementor-widget-heading" data-element_type="widget" data-id="c49486f" data-settings='{"_animation":"fadeInUp","_animation_delay":"0"}' data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">성공적인 매출 증대의 시작</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">완벽한 Tax Return</h2> </div>
 </div>
 <div class="elementor-element elementor-element-0ccf598 elementor-invisible elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0ccf598" data-settings='{"_animation":"fadeInUp","_animation_delay":"0"}' data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">비즈니스를 위한 혁신적인 마케팅 솔루션</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">Maximize Tax Deduction</h2> </div>
 </div>
 <div class="elementor-element elementor-element-97da5f3 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="97da5f3" data-settings='{"_animation":"fadeInUp","_animation_delay":"300"}' data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>[십분의일]은 맞춤형 마케팅 전략으로 귀사의 매출을 극대화합니다. 데이터 기반의 분석과 창의적인 접근으로 시장에서의 경쟁력을 높여드립니다.</p> </div>
+<p>CPA와 EA가 완벽한 Tax return 을 준비해드립니다.</p> </div>
 </div>
 <div class="elementor-element elementor-element-11f9b7a elementor-invisible elementor-widget elementor-widget-button" data-element_type="widget" data-id="11f9b7a" data-settings='{"_animation":"fadeInUp","_animation_delay":"300"}' data-widget_type="button.default">
 <div class="elementor-widget-container">
