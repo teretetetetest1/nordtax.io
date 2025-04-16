@@ -219,7 +219,7 @@ body, body * {
 </div>
 </div> </div>
 <div class="uicore-mobile-head-right"> <div class="uicore-cta-wrapper">
-<a class="uicore-btn" href="http://pf.kakao.com/_YeKVn/chat" target="_self">
+<a class="uicore-btn" href="mailto:parj1110@gmail.com" target="_self">
 <span class="elementor-button-text">
 						3초만에 문의하기                    </span>
 </a>
@@ -1109,7 +1109,7 @@ Nord tax과 함께 하세요</h2> </div>
 <div class="elementor-element elementor-element-e1014f0 elementor-nav-menu__align-start elementor-nav-menu--dropdown-none no-submenu elementor-widget elementor-widget-nav-menu" data-element_type="widget" data-id="e1014f0" data-settings='{"layout":"vertical","submenu_icon":{"value":"&lt;i class=\"\"&gt;&lt;\/i&gt;","library":""}}' data-widget_type="nav-menu.default">
 <div class="elementor-widget-container">
 <nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
-<ul class="elementor-nav-menu sm-vertical" id="menu-1-e1014f0"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1282"><a class="elementor-item" href="https://onetenth2.mycafe24.com/%ec%9d%b8%ec%82%ac%eb%a7%90/">회사소개</a>
+<ul class="elementor-nav-menu sm-vertical" id="menu-1-e1014f0"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1282"><a class="elementor-item" href="mailto:parj1110@gmail.com">회사소개</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-785"><a class="elementor-sub-item" href="https://onetenth2.mycafe24.com/%ec%9d%b8%ec%82%ac%eb%a7%90/">인사말</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-787"><a class="elementor-sub-item" href="https://onetenth2.mycafe24.com/%ec%97%b0%ed%98%81/">연혁</a></li>
@@ -1124,10 +1124,10 @@ Nord tax과 함께 하세요</h2> </div>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1408"><a class="elementor-item" href="https://onetenth2.mycafe24.com/about-product/">제품소개</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1409"><a class="elementor-sub-item" href="https://onetenth2.mycafe24.com/about-product/">제품소개</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1409"><a class="elementor-sub-item" href="mailto:parj1110@gmail.com">제품소개</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1285"><a class="elementor-item" href="https://onetenth2.mycafe24.com/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/">고객지원</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1285"><a class="elementor-item" href="mailto:parj1110@gmail.com">고객지원</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-795"><a class="elementor-sub-item" href="https://onetenth2.mycafe24.com/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/">공지사항</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-796"><a class="elementor-sub-item" href="https://onetenth2.mycafe24.com/%eb%89%b4%ec%8a%a4/">뉴스</a></li>
