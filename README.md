@@ -19,8 +19,8 @@
 <meta content="https://onetenth2.mycafe24.com/" property="og:url"/>
 <meta content="Nord Tax - 비즈니스 01" property="og:site_name"/>
 <meta content="2025-02-17T12:12:28+09:00" property="og:updated_time"/>
-<meta content="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/teams-3man-1.jpg" property="og:image"/>
-<meta content="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/teams-3man-1.jpg" property="og:image:secure_url"/>
+<meta content="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/ea_img1.png" property="og:image"/>
+<meta content="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/ea_img1.png" property="og:image:secure_url"/>
 <meta content="1920" property="og:image:width"/>
 <meta content="1280" property="og:image:height"/>
 <meta content="Home" property="og:image:alt"/>
