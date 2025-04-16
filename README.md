@@ -8,7 +8,7 @@
 <link href="https://gmpg.org/xfn/11" rel="profile"/>
 <style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 <!-- Rank Math 검색 엔진 최적화 - https://rankmath.com/ -->
-<title>Nord Tax</title><link as="image" data-rocket-preload="" fetchpriority="high" href="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/item02.png" imagesizes="(max-width: 600px) 100vw, 600px" imagesrcset="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/item02.png 600w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/item02-300x289.png 300w" rel="preload"/>
+<title>Nord Tax</title><link as="image" data-rocket-preload="" fetchpriority="high" href="https://github.com/teretetetetest1/nord1.github.io/blob/main/nordtax_logo.png" imagesizes="(max-width: 600px) 100vw, 600px" imagesrcset="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/item02.png 600w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/item02-300x289.png 300w" rel="preload"/>
 <meta content="정확한, 저렴한 Tax Return" name="description">
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots">
 <link href="https://onetenth2.mycafe24.com/" rel="canonical">
