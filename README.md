@@ -273,7 +273,7 @@ body, body * {
 <div class="elementor-counter">
 <div class="elementor-counter-title">누적 이용자수</div> <div class="elementor-counter-number-wrapper">
 <span class="elementor-counter-number-prefix"></span>
-<span class="elementor-counter-number" data-delimiter="," data-duration="2000" data-from-value="0" data-to-value="24600">0</span>
+<span class="elementor-counter-number" data-delimiter="," data-duration="2000" data-from-value="0" data-to-value="1">0</span>
 <span class="elementor-counter-number-suffix">건<span style="color: var(--e-global-color-uicore_primary);">+</span></span>
 </div>
 </div>
@@ -286,7 +286,7 @@ body, body * {
 <div class="elementor-counter">
 <div class="elementor-counter-title">누적 계약수</div> <div class="elementor-counter-number-wrapper">
 <span class="elementor-counter-number-prefix"></span>
-<span class="elementor-counter-number" data-delimiter="," data-duration="2000" data-from-value="0" data-to-value="15032">0</span>
+<span class="elementor-counter-number" data-delimiter="," data-duration="2000" data-from-value="0" data-to-value="1">0</span>
 <span class="elementor-counter-number-suffix">건<span style="color: var(--e-global-color-uicore_primary);">+</span></span>
 </div>
 </div>
@@ -299,7 +299,7 @@ body, body * {
 <div class="elementor-counter">
 <div class="elementor-counter-title">고객만족도</div> <div class="elementor-counter-number-wrapper">
 <span class="elementor-counter-number-prefix"></span>
-<span class="elementor-counter-number" data-delimiter="," data-duration="2000" data-from-value="0" data-to-value="99">0</span>
+<span class="elementor-counter-number" data-delimiter="," data-duration="2000" data-from-value="0" data-to-value="100">0</span>
 <span class="elementor-counter-number-suffix">%</span>
 </div>
 </div>
