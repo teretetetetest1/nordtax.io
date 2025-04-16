@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 
 <html lang="ko-KR" prefix="og: https://ogp.me/ns#">
@@ -183,24 +184,12 @@ body, body * {
 <img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-mobile-second" src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"/>
 </a>
 </div>
-<style>
-  .uicore-nav-menu,
-  .uicore-menu-container,
-  .uicore-menu {
-    display: flex !important;
-    justify-content: flex-start !important;
-  }
-
-  .uicore-nav-menu {
-    margin-left: 10%; /* 여기 숫자로 위치 조절 가능: 5%~15% */
-  }
-</style>
 <div class="uicore-nav-menu">
-<div class="uicore-menu-container uicore-nav"><ul class="uicore-menu" data-uils="header-menu" data-uils-title="Navigation Menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1282"><a href="https://teretetetetest1.github.io/nord1.github.io/"><span class="ui-menu-item-wrapper">회사소개</span></a>
+<div class="uicore-menu-container uicore-nav"><ul class="uicore-menu" data-uils="header-menu" data-uils-title="Navigation Menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1282"><a href="https://onetenth2.mycafe24.com/%ec%9d%b8%ec%82%ac%eb%a7%90/"><span class="ui-menu-item-wrapper">회사소개</span></a>
 <ul class="sub-menu">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-785"><a href="https://teretetetetest1.github.io/nord1.github.io/"><span class="ui-menu-item-wrapper">인사말</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-787"><a href="https://teretetetetest1.github.io/nord1.github.io/"><span class="ui-menu-item-wrapper">연혁</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-788"><a href="https://teretetetetest1.github.io/nord1.github.io/"><span class="ui-menu-item-wrapper">오시는 길</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-785"><a href="https://onetenth2.mycafe24.com/%ec%9d%b8%ec%82%ac%eb%a7%90/"><span class="ui-menu-item-wrapper">인사말</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-787"><a href="https://onetenth2.mycafe24.com/%ec%97%b0%ed%98%81/"><span class="ui-menu-item-wrapper">연혁</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-788"><a href="https://onetenth2.mycafe24.com/%ec%98%a4%ec%8b%9c%eb%8a%94-%ea%b8%b8/"><span class="ui-menu-item-wrapper">오시는 길</span></a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1285"><a href="https://onetenth2.mycafe24.com/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/"><span class="ui-menu-item-wrapper">고객지원</span></a>
