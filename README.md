@@ -8,16 +8,16 @@
 <link href="https://gmpg.org/xfn/11" rel="profile"/>
 <style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 <!-- Rank Math 검색 엔진 최적화 - https://rankmath.com/ -->
-<title>십분의일 - 마케팅 02</title><link as="image" data-rocket-preload="" fetchpriority="high" href="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/item02.png" imagesizes="(max-width: 600px) 100vw, 600px" imagesrcset="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/item02.png 600w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/item02-300x289.png 300w" rel="preload"/>
+<title>Nord Tax</title><link as="image" data-rocket-preload="" fetchpriority="high" href="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/item02.png" imagesizes="(max-width: 600px) 100vw, 600px" imagesrcset="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/item02.png 600w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/item02-300x289.png 300w" rel="preload"/>
 <meta content="정확한, 저렴한 Tax Return" name="description">
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots">
 <link href="https://onetenth2.mycafe24.com/" rel="canonical">
 <meta content="ko_KR" property="og:locale"/>
 <meta content="website" property="og:type"/>
-<meta content="십분의일 - 마케팅 02" property="og:title"/>
+<meta content="Nord Tax - 마케팅 02" property="og:title"/>
 <meta content="CPA와 EA가 정확하고 저렴한, 최고의 Credit을 위한 Tax filing을 준비합니다." property="og:description"/>
 <meta content="https://onetenth2.mycafe24.com/" property="og:url"/>
-<meta content="십분의일 - 비즈니스 01" property="og:site_name"/>
+<meta content="Nord Tax - 비즈니스 01" property="og:site_name"/>
 <meta content="2025-02-17T12:12:28+09:00" property="og:updated_time"/>
 <meta content="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/teams-3man-1.jpg" property="og:image"/>
 <meta content="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/teams-3man-1.jpg" property="og:image:secure_url"/>
@@ -28,21 +28,21 @@
 <meta content="2024-09-21T21:55:52+09:00" property="article:published_time"/>
 <meta content="2025-02-17T12:12:28+09:00" property="article:modified_time"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="십분의일 - 마케팅 02" name="twitter:title"/>
-<meta content="고퀄리티 맞춤형 웹사이트를 1/10 가격에 제공합니다. 십분의일의 템플릿은 아름다운 UI/UX 디자인과 쉬운 관리가 가능하며, 추가 관리 비용 없이 최적의 웹사이트를 제공합니다" name="twitter:description"/>
+<meta content="Nord Tax - 마케팅 02" name="twitter:title"/>
+<meta content="고퀄리티 맞춤형 웹사이트를 1/10 가격에 제공합니다. Nord Tax의 템플릿은 아름다운 UI/UX 디자인과 쉬운 관리가 가능하며, 추가 관리 비용 없이 최적의 웹사이트를 제공합니다" name="twitter:description"/>
 <meta content="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/teams-3man-1.jpg" name="twitter:image"/>
 <meta content="작성자" name="twitter:label1"/>
-<meta content="십분의일" name="twitter:data1"/>
+<meta content="Nord Tax" name="twitter:data1"/>
 <meta content="읽을 시간" name="twitter:label2"/>
 <meta content="2분" name="twitter:data2"/>
 <script class="rank-math-schema" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://onetenth2.mycafe24.com/#person","name":"\uc2ed\ubd84\uc758\uc77c - \ube44\uc988\ub2c8\uc2a4 01"},{"@type":"WebSite","@id":"https://onetenth2.mycafe24.com/#website","url":"https://onetenth2.mycafe24.com","name":"\uc2ed\ubd84\uc758\uc77c - \ube44\uc988\ub2c8\uc2a4 01","publisher":{"@id":"https://onetenth2.mycafe24.com/#person"},"inLanguage":"ko-KR","potentialAction":{"@type":"SearchAction","target":"https://onetenth2.mycafe24.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/item02.png","url":"https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/item02.png","width":"200","height":"200","inLanguage":"ko-KR"},{"@type":"WebPage","@id":"https://onetenth2.mycafe24.com/#webpage","url":"https://onetenth2.mycafe24.com/","name":"\uc2ed\ubd84\uc758\uc77c - \ub9c8\ucf00\ud305 02","datePublished":"2024-09-21T21:55:52+09:00","dateModified":"2025-02-17T12:12:28+09:00","about":{"@id":"https://onetenth2.mycafe24.com/#person"},"isPartOf":{"@id":"https://onetenth2.mycafe24.com/#website"},"primaryImageOfPage":{"@id":"https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/item02.png"},"inLanguage":"ko-KR"},{"@type":"Person","@id":"https://onetenth2.mycafe24.com/author/onetenth/","name":"\uc2ed\ubd84\uc758\uc77c","url":"https://onetenth2.mycafe24.com/author/onetenth/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/26a335bc14271273429592b5722b2e95e025631acf3041f63c7c0fe811e7c809?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/26a335bc14271273429592b5722b2e95e025631acf3041f63c7c0fe811e7c809?s=96&amp;d=mm&amp;r=g","caption":"\uc2ed\ubd84\uc758\uc77c","inLanguage":"ko-KR"}},{"@type":"Article","headline":"\uc2ed\ubd84\uc758\uc77c - \ub9c8\ucf00\ud305 02","datePublished":"2024-09-21T21:55:52+09:00","dateModified":"2025-02-17T12:12:28+09:00","author":{"@id":"https://onetenth2.mycafe24.com/author/onetenth/","name":"\uc2ed\ubd84\uc758\uc77c"},"publisher":{"@id":"https://onetenth2.mycafe24.com/#person"},"description":"\uace0\ud004\ub9ac\ud2f0 \ub9de\ucda4\ud615 \uc6f9\uc0ac\uc774\ud2b8\ub97c 1/10 \uac00\uaca9\uc5d0 \uc81c\uacf5\ud569\ub2c8\ub2e4. \uc2ed\ubd84\uc758\uc77c\uc758 \ud15c\ud50c\ub9bf\uc740 \uc544\ub984\ub2e4\uc6b4 UI/UX \ub514\uc790\uc778\uacfc \uc26c\uc6b4 \uad00\ub9ac\uac00 \uac00\ub2a5\ud558\uba70, \ucd94\uac00 \uad00\ub9ac \ube44\uc6a9 \uc5c6\uc774 \ucd5c\uc801\uc758 \uc6f9\uc0ac\uc774\ud2b8\ub97c \uc81c\uacf5\ud569\ub2c8\ub2e4","name":"\uc2ed\ubd84\uc758\uc77c - \ub9c8\ucf00\ud305 02","@id":"https://onetenth2.mycafe24.com/#richSnippet","isPartOf":{"@id":"https://onetenth2.mycafe24.com/#webpage"},"image":{"@id":"https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/item02.png"},"inLanguage":"ko-KR","mainEntityOfPage":{"@id":"https://onetenth2.mycafe24.com/#webpage"}}]}</script>
 <!-- /Rank Math WordPress SEO 플러그인 -->
 <!-- WordPress KBoard plugin 6.6 - https://www.cosmosfarm.com/products/kboard -->
-<link href="https://onetenth2.mycafe24.com/wp-content/plugins/kboard/rss.php" rel="alternate" title="십분의일 - 마케팅 02 » KBoard 통합 피드" type="application/rss+xml"/>
+<link href="https://onetenth2.mycafe24.com/wp-content/plugins/kboard/rss.php" rel="alternate" title="Nord Tax - 마케팅 02 » KBoard 통합 피드" type="application/rss+xml"/>
 <!-- WordPress KBoard plugin 6.6 - https://www.cosmosfarm.com/products/kboard -->
 <link href="//t1.daumcdn.net" rel="dns-prefetch">
-<link href="https://onetenth2.mycafe24.com/feed/" rel="alternate" title="십분의일 - 마케팅 02 » 피드" type="application/rss+xml">
-<link href="https://onetenth2.mycafe24.com/comments/feed/" rel="alternate" title="십분의일 - 마케팅 02 » 댓글 피드" type="application/rss+xml"/>
+<link href="https://onetenth2.mycafe24.com/feed/" rel="alternate" title="Nord Tax - 마케팅 02 » 피드" type="application/rss+xml">
+<link href="https://onetenth2.mycafe24.com/comments/feed/" rel="alternate" title="Nord Tax - 마케팅 02 » 댓글 피드" type="application/rss+xml"/>
 <link as="font" crossorigin="anonymous" href="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/Pretendard-Regular.woff" rel="preload" type="font/woff"/> <link as="font" crossorigin="anonymous" href="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/Pretendard-Medium.woff" rel="preload" type="font/woff"/> <link as="font" crossorigin="anonymous" href="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/Pretendard-SemiBold.woff" rel="preload" type="font/woff"/> <link as="font" crossorigin="anonymous" href="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/Pretendard-Bold.woff" rel="preload" type="font/woff"/> <link as="font" crossorigin="anonymous" href="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/Pretendard-ExtraBold.woff" rel="preload" type="font/woff"/> <script>
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/onetenth2.mycafe24.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8"}};
 /*! This file is auto-generated */
@@ -178,10 +178,10 @@ body, body * {
 <nav class="uicore elementor-container">
 <div class="uicore-branding" data-uils="header-branding" data-uils-title="Site Logo">
 <a href="https://onetenth2.mycafe24.com/" rel="home">
-<img alt="십분의일 - 마케팅 02" class="uicore uicore-logo uicore-main" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/onetenth-logo-dark.png"/>
-<img alt="십분의일 - 마케팅 02" class="uicore uicore-logo uicore-second" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/onetenth-logo-light.png"/>
-<img alt="십분의일 - 마케팅 02" class="uicore uicore-logo uicore-mobile-main" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/onetenth-logo-dark.png"/>
-<img alt="십분의일 - 마케팅 02" class="uicore uicore-logo uicore-mobile-second" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/onetenth-logo-light.png"/>
+<img alt="Nord Tax - 마케팅 02" class="uicore uicore-logo uicore-main" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/onetenth-logo-dark.png"/>
+<img alt="Nord Tax - 마케팅 02" class="uicore uicore-logo uicore-second" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/onetenth-logo-light.png"/>
+<img alt="Nord Tax - 마케팅 02" class="uicore uicore-logo uicore-mobile-main" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/onetenth-logo-dark.png"/>
+<img alt="Nord Tax - 마케팅 02" class="uicore uicore-logo uicore-mobile-second" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/onetenth-logo-light.png"/>
 </a>
 </div>
 <div class="uicore-nav-menu">
@@ -451,7 +451,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-4a21481 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="4a21481" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>십분의일은 고가의 맞춤형 서비스를 합리적인 가격에 제공함으로써, 모든 규모의 사업자가 효과적인 마케팅을 통해 매출을 증대할 수 있도록 지원합니다.</p> </div>
+<p>Nord Tax은 고가의 맞춤형 서비스를 합리적인 가격에 제공함으로써, 모든 규모의 사업자가 효과적인 마케팅을 통해 매출을 증대할 수 있도록 지원합니다.</p> </div>
 </div>
 </div>
 </div>
@@ -893,10 +893,10 @@ body, body * {
 <svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-down" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg> </span>
 </span>
 <span class="ui-e-title-text">
-                                                                Q. 십분의일은 어떤 마케팅 서비스를 제공하나요?                            </span>
+                                                                Q. Nord Tax은 어떤 마케팅 서비스를 제공하나요?                            </span>
 </h5>
 <div aria-labelledby="ui-e-q-%ec%8b%ad%eb%b6%84%ec%9d%98%ec%9d%bc%ec%9d%80-%ec%96%b4%eb%96%a4-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%84%9c%eb%b9%84%ec%8a%a4%eb%a5%bc-%ec%a0%9c%ea%b3%b5%ed%95%98%eb%82%98%ec%9a%94" class="ui-e-content" id="ui-e-acc-1" style="">
-<p>“십분의일”은 다양한 업종과 비즈니스 목표에 최적화된 종합 마케팅 서비스를 제공합니다. 주요 서비스로는 스마트스토어 마케팅, 플레이스 마케팅, 퍼포먼스 마케팅, 바이럴 마케팅, 브랜드 전략 및 디자인, 이벤트 및 프로모션 기획, 네이버 플레이스 관리, 인스타그램 전략 등이 있습니다. 저희는 데이터 기반의 분석과 창의적인 전략을 결합하여 고객사의 매출 증대와 브랜드 가치를 극대화하는 데 중점을 두고 있습니다.</p> </div>
+<p>“Nord Tax”은 다양한 업종과 비즈니스 목표에 최적화된 종합 마케팅 서비스를 제공합니다. 주요 서비스로는 스마트스토어 마케팅, 플레이스 마케팅, 퍼포먼스 마케팅, 바이럴 마케팅, 브랜드 전략 및 디자인, 이벤트 및 프로모션 기획, 네이버 플레이스 관리, 인스타그램 전략 등이 있습니다. 저희는 데이터 기반의 분석과 창의적인 전략을 결합하여 고객사의 매출 증대와 브랜드 가치를 극대화하는 데 중점을 두고 있습니다.</p> </div>
 </div>
 <div aria-controls="ui-e-acc-2" aria-expanded="false" class="ui-e-item" id="ui-e-q-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%a0%84%eb%9e%b5%ec%9d%80-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%88%98%eb%a6%bd%eb%90%98%eb%82%98%ec%9a%94" role="button" tabindex="0">
 <h5 class="ui-e-title ui-right">
@@ -908,7 +908,7 @@ body, body * {
                                                                 Q. 마케팅 전략은 어떻게 수립되나요?                            </span>
 </h5>
 <div aria-labelledby="ui-e-q-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%a0%84%eb%9e%b5%ec%9d%80-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%88%98%eb%a6%bd%eb%90%98%eb%82%98%ec%9a%94" class="ui-e-content" id="ui-e-acc-2" style="display:none;">
-<p>“십분의일”의 마케팅 전략 수립은 철저한 분석과 맞춤형 접근을 바탕으로 이루어집니다. 먼저, 고객사와의 1:1 상담을 통해 비즈니스 목표와 현재 상황을 정확히 파악합니다. 그 다음, 시장 분석과 경쟁사 분석을 통해 데이터 기반의 인사이트를 도출하고, 이를 기반으로 최적화된 마케팅 전략을 제안합니다. 마지막으로, 제안된 전략을 실제 캠페인에 적용하고 지속적으로 모니터링하며 필요에 따라 전략을 조정하여 최상의 결과를 도출합니다.</p> </div>
+<p>“Nord Tax”의 마케팅 전략 수립은 철저한 분석과 맞춤형 접근을 바탕으로 이루어집니다. 먼저, 고객사와의 1:1 상담을 통해 비즈니스 목표와 현재 상황을 정확히 파악합니다. 그 다음, 시장 분석과 경쟁사 분석을 통해 데이터 기반의 인사이트를 도출하고, 이를 기반으로 최적화된 마케팅 전략을 제안합니다. 마지막으로, 제안된 전략을 실제 캠페인에 적용하고 지속적으로 모니터링하며 필요에 따라 전략을 조정하여 최상의 결과를 도출합니다.</p> </div>
 </div>
 <div aria-controls="ui-e-acc-3" aria-expanded="false" class="ui-e-item" id="ui-e-q-%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%9d%b4%ec%9a%a9-%ec%a0%88%ec%b0%a8%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%90%98%eb%82%98%ec%9a%94" role="button" tabindex="0">
 <h5 class="ui-e-title ui-right">
@@ -920,7 +920,7 @@ body, body * {
                                                                 Q. 서비스 이용 절차는 어떻게 되나요?                            </span>
 </h5>
 <div aria-labelledby="ui-e-q-%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%9d%b4%ec%9a%a9-%ec%a0%88%ec%b0%a8%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%90%98%eb%82%98%ec%9a%94" class="ui-e-content" id="ui-e-acc-3" style="display:none;">
-<p>“십분의일”의 서비스 이용 절차는 다음과 같습니다:</p><ol><li><strong>상담 신청:</strong> 홈페이지를 통해 무료 상담을 신청합니다.</li><li><strong>상담 및 분석:</strong> 전문 마케터와의 1:1 상담을 통해 비즈니스 목표와 현재 마케팅 상황을 분석합니다.</li><li><strong>전략 제안:</strong> 분석 결과를 바탕으로 맞춤형 마케팅 전략을 제안드립니다.</li><li><strong>계약 및 실행:</strong> 제안된 전략에 동의하시면 계약을 체결하고, 마케팅 캠페인을 실행합니다.</li><li><strong>성과 분석:</strong> 캠페인 진행 중 및 종료 후, 성과를 분석하고 보고서를 제공합니다.</li><li><strong>지속적인 지원:</strong> 필요에 따라 추가적인 전략 조정과 지원을 통해 지속적인 매출 성장을 도모합니다.</li></ol> </div>
+<p>“Nord Tax”의 서비스 이용 절차는 다음과 같습니다:</p><ol><li><strong>상담 신청:</strong> 홈페이지를 통해 무료 상담을 신청합니다.</li><li><strong>상담 및 분석:</strong> 전문 마케터와의 1:1 상담을 통해 비즈니스 목표와 현재 마케팅 상황을 분석합니다.</li><li><strong>전략 제안:</strong> 분석 결과를 바탕으로 맞춤형 마케팅 전략을 제안드립니다.</li><li><strong>계약 및 실행:</strong> 제안된 전략에 동의하시면 계약을 체결하고, 마케팅 캠페인을 실행합니다.</li><li><strong>성과 분석:</strong> 캠페인 진행 중 및 종료 후, 성과를 분석하고 보고서를 제공합니다.</li><li><strong>지속적인 지원:</strong> 필요에 따라 추가적인 전략 조정과 지원을 통해 지속적인 매출 성장을 도모합니다.</li></ol> </div>
 </div>
 <div aria-controls="ui-e-acc-4" aria-expanded="false" class="ui-e-item" id="ui-e-q-%ea%b2%b0%ec%a0%9c-%eb%b0%a9%ec%8b%9d%ec%9d%80-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%90%98%eb%82%98%ec%9a%94" role="button" tabindex="0">
 <h5 class="ui-e-title ui-right">
@@ -932,7 +932,7 @@ body, body * {
                                                                 Q. 결제 방식은 어떻게 되나요?                            </span>
 </h5>
 <div aria-labelledby="ui-e-q-%ea%b2%b0%ec%a0%9c-%eb%b0%a9%ec%8b%9d%ec%9d%80-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%90%98%eb%82%98%ec%9a%94" class="ui-e-content" id="ui-e-acc-4" style="display:none;">
-<p>“십분의일”은 고객의 편의를 위해 다양한 결제 방식을 지원합니다. 신용카드, 계좌이체, 모바일 결제 등 안전하고 간편한 결제 수단을 통해 서비스를 이용하실 수 있습니다. 또한, 장기 계약이나 대규모 프로젝트의 경우 맞춤형 결제 계획을 제공하여 고객사의 재정적 부담을 최소화할 수 있도록 돕고 있습니다. 결제 과정은 투명하게 진행되며, 모든 거래는 안전하게 보호됩니다.</p> </div>
+<p>“Nord Tax”은 고객의 편의를 위해 다양한 결제 방식을 지원합니다. 신용카드, 계좌이체, 모바일 결제 등 안전하고 간편한 결제 수단을 통해 서비스를 이용하실 수 있습니다. 또한, 장기 계약이나 대규모 프로젝트의 경우 맞춤형 결제 계획을 제공하여 고객사의 재정적 부담을 최소화할 수 있도록 돕고 있습니다. 결제 과정은 투명하게 진행되며, 모든 거래는 안전하게 보호됩니다.</p> </div>
 </div>
 <div aria-controls="ui-e-acc-5" aria-expanded="false" class="ui-e-item" id="ui-e-q-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%84%b1%ea%b3%bc%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%b8%a1%ec%a0%95%eb%90%98%eb%82%98%ec%9a%94" role="button" tabindex="0">
 <h5 class="ui-e-title ui-right">
@@ -944,7 +944,7 @@ body, body * {
                                                                 Q. 마케팅 성과는 어떻게 측정되나요?                            </span>
 </h5>
 <div aria-labelledby="ui-e-q-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%84%b1%ea%b3%bc%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%b8%a1%ec%a0%95%eb%90%98%eb%82%98%ec%9a%94" class="ui-e-content" id="ui-e-acc-5" style="display:none;">
-<p>“십분의일”은 마케팅 성과를 정확하고 체계적으로 측정하기 위해 다양한 KPI(핵심성과지표)를 설정하고, 실시간 데이터 분석을 통해 지속적으로 모니터링합니다. 주요 성과 지표로는 웹사이트 방문자 수, 전환율, 광고 ROI, 브랜드 인지도, 소셜 미디어 참여도 등이 있습니다. 또한, 정기적인 성과 보고서를 통해 고객사와 성과를 공유하고, 필요에 따라 전략을 조정하여 최적의 결과를 도출합니다. 이를 통해 고객사는 마케팅 투자에 대한 명확한 가치를 확인할 수 있습니다.</p> </div>
+<p>“Nord Tax”은 마케팅 성과를 정확하고 체계적으로 측정하기 위해 다양한 KPI(핵심성과지표)를 설정하고, 실시간 데이터 분석을 통해 지속적으로 모니터링합니다. 주요 성과 지표로는 웹사이트 방문자 수, 전환율, 광고 ROI, 브랜드 인지도, 소셜 미디어 참여도 등이 있습니다. 또한, 정기적인 성과 보고서를 통해 고객사와 성과를 공유하고, 필요에 따라 전략을 조정하여 최적의 결과를 도출합니다. 이를 통해 고객사는 마케팅 투자에 대한 명확한 가치를 확인할 수 있습니다.</p> </div>
 </div>
 </div>
 </div>
@@ -1186,7 +1186,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-25c81b1 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="25c81b1" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>상호명: 십분의일<br>대표: 안상언<br>사업자등록번호: 274-01-02718 <br/>주소: 서울특별시 관악구</br></br></p> </div>
+<p>상호명: Nord Tax<br>대표: 안상언<br>사업자등록번호: 274-01-02718 <br/>주소: 서울특별시 관악구</br></br></p> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-3f64a7a e-con-full e-flex e-con e-child" data-element_type="container" data-id="3f64a7a">
@@ -1206,7 +1206,7 @@ body, body * {
 <nav class="uicore elementor-container">
 <div class="uicore-branding uicore-mobile">
 <a href="https://onetenth2.mycafe24.com/" rel="home">
-<img alt="십분의일 - 마케팅 02" class="uicore uicore-logo" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/onetenth-logo-dark.png"/>
+<img alt="Nord Tax - 마케팅 02" class="uicore uicore-logo" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/onetenth-logo-dark.png"/>
 </a>
 </div>
 <div class="uicore-branding uicore-desktop">
