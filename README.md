@@ -387,7 +387,7 @@ body, body * {
 <a class="elementor-element elementor-element-ce11b70 e-con-full aspect-1-1 hover-box e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="ce11b70" data-settings='{"animation":"fadeInUp","animation_delay":"400"}' href="/사업분야-디자인-1/">
 <div class="elementor-element elementor-element-c148dc6 hover-underline elementor-widget elementor-widget-heading" data-element_type="widget" data-id="c148dc6" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">E 비자 및 주재</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">E비자 및 주재원</h3> </div>
 </div>
 <div class="elementor-element elementor-element-5c412fd elementor-absolute hover-box-img elementor-widget elementor-widget-image" data-element_type="widget" data-id="5c412fd" data-settings='{"_position":"absolute"}' data-widget_type="image.default">
 <div class="elementor-widget-container">
@@ -401,7 +401,7 @@ body, body * {
 <a class="elementor-element elementor-element-99303bc e-con-full aspect-1-1 hover-box e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="99303bc" data-settings='{"animation":"fadeInUp","animation_delay":"500"}' href="/사업분야-디자인-1/">
 <div class="elementor-element elementor-element-a7a00c2 hover-underline elementor-widget elementor-widget-heading" data-element_type="widget" data-id="a7a00c2" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">General Form 1040</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">제너럴한 세금보</h3> </div>
 </div>
 <div class="elementor-element elementor-element-f0d16d5 elementor-absolute hover-box-img elementor-widget elementor-widget-image" data-element_type="widget" data-id="f0d16d5" data-settings='{"_position":"absolute"}' data-widget_type="image.default">
 <div class="elementor-widget-container">
