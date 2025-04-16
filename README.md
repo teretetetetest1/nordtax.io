@@ -212,7 +212,7 @@ body, body * {
 </ul>
 </li>
 </ul></div><div class="uicore uicore-extra" data-uils="header_extra" data-uils-title="Header Extras"> <div class="uicore-cta-wrapper">
-<a class="uicore-btn" href="http://pf.kakao.com/_YeKVn/chat" target="_self">
+<a class="uicore-btn" href="mailto:parj1110@gmail.com" target="_self">
 <span class="elementor-button-text">
 						3초만에 문의하기                    </span>
 </a>
@@ -1249,7 +1249,7 @@ Nord tax과 함께 하세요</h2> </div>
 </ul>
 </li>
 </ul></div><div class="uicore uicore-extra" data-uils="header_extra" data-uils-title="Header Extras"> <div class="uicore-cta-wrapper">
-<a class="uicore-btn" href="http://pf.kakao.com/_YeKVn/chat" target="_self">
+<a class="uicore-btn" href="mailto:parj1110@gmail.com" target="_self">
 <span class="elementor-button-text">
 						3초만에 문의하기                    </span>
 </a>
