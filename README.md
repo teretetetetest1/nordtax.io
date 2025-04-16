@@ -166,6 +166,10 @@ body, body * {
     background-color: black !important;
     background-image: none !important;
 }
+</style><style>
+body, body * {
+    color: white !important;
+}
 </style></head>
 <body class="home wp-singular page-template-default page page-id-970 wp-embed-responsive wp-theme-onetenth wp-child-theme-onetenth-child ui-a-dsmm-slide elementor-default elementor-kit-661 elementor-page elementor-page-970" data-rsssl="1" style="background-color: black;">
 <div class="uicore-animation-bg"></div><!-- Custom HTML - Page Options --><!-- 1.1 uicore_before_body_content --> <div class="uicore-body-content">
