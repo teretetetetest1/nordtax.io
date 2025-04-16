@@ -1230,22 +1230,29 @@ Nord tax과 함께 하세요</h2> </div>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-788"><a href="https://onetenth2.mycafe24.com/%ec%98%a4%ec%8b%9c%eb%8a%94-%ea%b8%b8/"><span class="ui-menu-item-wrapper">오시는 길</span></a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1285"><a href="https://onetenth2.mycafe24.com/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/"><span class="ui-menu-item-wrapper">고객지원</span></a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-795"><a href="https://onetenth2.mycafe24.com/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/"><span class="ui-menu-item-wrapper">공지사항</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-796"><a href="https://onetenth2.mycafe24.com/%eb%89%b4%ec%8a%a4/"><span class="ui-menu-item-wrapper">뉴스</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-797"><a href="https://onetenth2.mycafe24.com/faq/"><span class="ui-menu-item-wrapper">자주묻는질문</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-798"><a href="https://onetenth2.mycafe24.com/contact/"><span class="ui-menu-item-wrapper">문의하기</span></a></li>
-</ul>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1285">
+  <a href="https://onetenth2.mycafe24.com/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/">
+    <span class="ui-menu-item-wrapper">고객지원</span>
+  </a>
+  <ul class="sub-menu">
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-795"><a href="https://onetenth2.mycafe24.com/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/"><span class="ui-menu-item-wrapper">공지사항</span></a></li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-796"><a href="https://onetenth2.mycafe24.com/%eb%89%b4%ec%8a%a4/"><span class="ui-menu-item-wrapper">뉴스</span></a></li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-797"><a href="https://onetenth2.mycafe24.com/faq/"><span class="ui-menu-item-wrapper">자주묻는질문</span></a></li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-798"><a href="https://onetenth2.mycafe24.com/contact/"><span class="ui-menu-item-wrapper">문의하기</span></a></li>
+  </ul>
 </li>
-</ul></div><div class="uicore uicore-extra" data-uils="header_extra" data-uils-title="Header Extras"> <div class="uicore-cta-wrapper">
-<a class="uicore-btn" href="mailto:parj1110@gmail.com" target="_self">
-<span class="elementor-button-text">
-						3초만에 문의하기                    </span>
-</a>
+
+<!-- ✅ 여기에 버튼을 메뉴 항목처럼 추가 -->
+<li class="menu-item contact-button-item">
+  <a class="uicore-btn" href="mailto:parj1110@gmail.com" target="_self">
+    <span class="elementor-button-text">3초만에 문의하기</span>
+  </a>
+</li>
+</ul>
 </div>
-</div> </div>
 </div>
+</div>
+
 <!-- 1.6 uicore_body_end --></div>
 <!-- 1.7 uicore_after_body_content --><script> 
 var uicore_frontend = {'back':'뒤로', 'rtl' : '','mobile_br' : '1025'};
