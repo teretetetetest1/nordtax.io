@@ -196,44 +196,91 @@ body, body * {
     margin-left: 10%; /* 여기 숫자로 위치 조절 가능: 5%~15% */
   }
 </style>
+<!-- 추가된 스타일: 높이 정렬 -->
+<style>
+  .uicore-menu li,
+  .uicore-menu a {
+    height: 60px;
+    display: flex;
+    align-items: center;
+  }
+
+  .uicore-menu .ui-menu-item-wrapper {
+    padding: 0 15px;
+    font-size: 16px;
+    line-height: 1.2;
+  }
+
+  .uicore-btn.inline-cta {
+    margin-left: 15px;
+    height: 40px;
+    padding: 10px 15px;
+    display: flex;
+    align-items: center;
+    background-color: #7408FF;
+    color: white;
+    border-radius: 5px;
+    font-size: 14px;
+    text-decoration: none;
+  }
+</style>
+
 <div class="uicore-nav-menu">
-<div class="uicore-menu-container uicore-nav"><ul class="uicore-menu" data-uils="header-menu" data-uils-title="Navigation Menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1282"><a href="https://teretetetetest1.github.io/nord1.github.io/"><span class="ui-menu-item-wrapper">회사소개</span></a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-785"><a href="https://teretetetetest1.github.io/nord1.github.io/"><span class="ui-menu-item-wrapper">인사말</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-787"><a href="https://teretetetetest1.github.io/nord1.github.io/"><span class="ui-menu-item-wrapper">연혁</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-788"><a href="https://teretetetetest1.github.io/nord1.github.io/"><span class="ui-menu-item-wrapper">오시는 길</span></a></li>
-</ul>
+  <div class="uicore-menu-container uicore-nav">
+    <ul class="uicore-menu" data-uils="header-menu" data-uils-title="Navigation Menu">
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1282">
+        <a href="https://teretetetetest1.github.io/nord1.github.io/">
+          <span class="ui-menu-item-wrapper">회사소개</span>
+        </a>
+        <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-785"><a href="https://teretetetetest1.github.io/nord1.github.io/"><span class="ui-menu-item-wrapper">인사말</span></a></li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-787"><a href="https://teretetetetest1.github.io/nord1.github.io/"><span class="ui-menu-item-wrapper">연혁</span></a></li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-788"><a href="https://teretetetetest1.github.io/nord1.github.io/"><span class="ui-menu-item-wrapper">오시는 길</span></a></li>
+        </ul>
+      </li>
+
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1285">
+  <a href="https://onetenth2.mycafe24.com/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/">
+    <span class="ui-menu-item-wrapper">고객지원</span>
+  </a>
+  <ul class="sub-menu">
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-795">
+      <a href="https://onetenth2.mycafe24.com/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/">
+        <span class="ui-menu-item-wrapper">공지사항</span>
+      </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-796">
+      <a href="https://onetenth2.mycafe24.com/%eb%89%b4%ec%8a%a4/">
+        <span class="ui-menu-item-wrapper">뉴스</span>
+      </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-797">
+      <a href="https://onetenth2.mycafe24.com/faq/">
+        <span class="ui-menu-item-wrapper">자주묻는질문</span>
+      </a>
+    </li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-798">
+      <a href="https://onetenth2.mycafe24.com/contact/">
+        <span class="ui-menu-item-wrapper">문의하기</span>
+      </a>
+    </li>
+  </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1285"><a href="https://onetenth2.mycafe24.com/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/"><span class="ui-menu-item-wrapper">고객지원</span></a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-795"><a href="https://onetenth2.mycafe24.com/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/"><span class="ui-menu-item-wrapper">공지사항</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-796"><a href="https://onetenth2.mycafe24.com/%eb%89%b4%ec%8a%a4/"><span class="ui-menu-item-wrapper">뉴스</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-797"><a href="https://onetenth2.mycafe24.com/faq/"><span class="ui-menu-item-wrapper">자주묻는질문</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-798"><a href="https://onetenth2.mycafe24.com/contact/"><span class="ui-menu-item-wrapper">문의하기</span></a></li>
-</ul>
+
+<!-- '고객지원' 옆에 버튼 추가 -->
+<li>
+  <a class="uicore-btn inline-cta" href="mailto:parj1110@gmail.com">3초만에 문의하기</a>
 </li>
-</ul></div><div class="uicore uicore-extra" data-uils="header_extra" data-uils-title="Header Extras"> <div class="uicore-cta-wrapper">
-<a class="uicore-btn" href="mailto:parj1110@gmail.com" target="_self">
-<span class="elementor-button-text">
-						3초만에 문의하기                    </span>
-</a>
+
+  </div>
 </div>
-</div> </div>
-<div class="uicore-mobile-head-right"> <div class="uicore-cta-wrapper">
-<a class="uicore-btn" href="mailto:parj1110@gmail.com" target="_self">
-<span class="elementor-button-text">
-						3초만에 문의하기                    </span>
-</a>
-</div>
-<button aria-label="mobile-menu" class="uicore-toggle uicore-ham" type="button">
-<span class="bars">
-<span class="bar"></span>
-<span class="bar"></span>
-<span class="bar"></span>
-</span>
-</button>
-</div> </nav>
-</div>
+
+
+
+
+
+
+
 </div><!-- #wrapper-navbar end -->
 <!-- 1.3 uicore_page --> <div class="uicore-content" id="content">
 <!-- 1.4 uicore_before_content --><div class="content-area" id="primary">
