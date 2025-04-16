@@ -179,9 +179,9 @@ body, body * {
 <div class="uicore-branding" data-uils="header-branding" data-uils-title="Site Logo">
 <a href="https://onetenth2.mycafe24.com/" rel="home">
 <img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-main" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/onetenth-logo-dark.png"/>
-<img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-second" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/onetenth-logo-light.png"/>
+<img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-second" src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"/>
 <img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-mobile-main" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/onetenth-logo-dark.png"/>
-<img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-mobile-second" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/onetenth-logo-light.png"/>
+<img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-mobile-second" src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"/>
 </a>
 </div>
 <div class="uicore-nav-menu">
