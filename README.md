@@ -36,12 +36,7 @@
 <meta content="2분" name="twitter:data2"/>
 <script class="rank-math-schema" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://onetenth2.mycafe24.com/#person","name":"\uc2ed\ubd84\uc758\uc77c - \ube44\uc988\ub2c8\uc2a4 01"},{"@type":"WebSite","@id":"https://onetenth2.mycafe24.com/#website","url":"https://onetenth2.mycafe24.com","name":"\uc2ed\ubd84\uc758\uc77c - \ube44\uc988\ub2c8\uc2a4 01","publisher":{"@id":"https://onetenth2.mycafe24.com/#person"},"inLanguage":"ko-KR","potentialAction":{"@type":"SearchAction","target":"https://onetenth2.mycafe24.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png","url":"https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png","width":"200","height":"200","inLanguage":"ko-KR"},{"@type":"WebPage","@id":"https://onetenth2.mycafe24.com/#webpage","url":"https://onetenth2.mycafe24.com/","name":"\uc2ed\ubd84\uc758\uc77c - \ub9c8\ucf00\ud305 02","datePublished":"2024-09-21T21:55:52+09:00","dateModified":"2025-02-17T12:12:28+09:00","about":{"@id":"https://onetenth2.mycafe24.com/#person"},"isPartOf":{"@id":"https://onetenth2.mycafe24.com/#website"},"primaryImageOfPage":{"@id":"https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png"},"inLanguage":"ko-KR"},{"@type":"Person","@id":"https://onetenth2.mycafe24.com/author/onetenth/","name":"\uc2ed\ubd84\uc758\uc77c","url":"https://onetenth2.mycafe24.com/author/onetenth/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/26a335bc14271273429592b5722b2e95e025631acf3041f63c7c0fe811e7c809?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/26a335bc14271273429592b5722b2e95e025631acf3041f63c7c0fe811e7c809?s=96&amp;d=mm&amp;r=g","caption":"\uc2ed\ubd84\uc758\uc77c","inLanguage":"ko-KR"}},{"@type":"Article","headline":"\uc2ed\ubd84\uc758\uc77c - \ub9c8\ucf00\ud305 02","datePublished":"2024-09-21T21:55:52+09:00","dateModified":"2025-02-17T12:12:28+09:00","author":{"@id":"https://onetenth2.mycafe24.com/author/onetenth/","name":"\uc2ed\ubd84\uc758\uc77c"},"publisher":{"@id":"https://onetenth2.mycafe24.com/#person"},"description":"\uace0\ud004\ub9ac\ud2f0 \ub9de\ucda4\ud615 \uc6f9\uc0ac\uc774\ud2b8\ub97c 1/10 \uac00\uaca9\uc5d0 \uc81c\uacf5\ud569\ub2c8\ub2e4. \uc2ed\ubd84\uc758\uc77c\uc758 \ud15c\ud50c\ub9bf\uc740 \uc544\ub984\ub2e4\uc6b4 UI/UX \ub514\uc790\uc778\uacfc \uc26c\uc6b4 \uad00\ub9ac\uac00 \uac00\ub2a5\ud558\uba70, \ucd94\uac00 \uad00\ub9ac \ube44\uc6a9 \uc5c6\uc774 \ucd5c\uc801\uc758 \uc6f9\uc0ac\uc774\ud2b8\ub97c \uc81c\uacf5\ud569\ub2c8\ub2e4","name":"\uc2ed\ubd84\uc758\uc77c - \ub9c8\ucf00\ud305 02","@id":"https://onetenth2.mycafe24.com/#richSnippet","isPartOf":{"@id":"https://onetenth2.mycafe24.com/#webpage"},"image":{"@id":"https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png"},"inLanguage":"ko-KR","mainEntityOfPage":{"@id":"https://onetenth2.mycafe24.com/#webpage"}}]}</script>
 <!-- /Rank Math WordPress SEO 플러그인 -->
-<!-- WordPress KBoard plugin 6.6 - https://www.cosmosfarm.com/products/kboard -->
-<link href="https://onetenth2.mycafe24.com/wp-content/plugins/kboard/rss.php" rel="alternate" title="Nord Tax - 절세 전략 02 » KBoard 통합 피드" type="application/rss+xml"/>
-<!-- WordPress KBoard plugin 6.6 - https://www.cosmosfarm.com/products/kboard -->
 <link href="//t1.daumcdn.net" rel="dns-prefetch">
-<link href="https://onetenth2.mycafe24.com/feed/" rel="alternate" title="Nord Tax - 절세 전략 02 » 피드" type="application/rss+xml">
-<link href="https://onetenth2.mycafe24.com/comments/feed/" rel="alternate" title="Nord Tax - 절세 전략 02 » 댓글 피드" type="application/rss+xml"/>
 <link as="font" crossorigin="anonymous" href="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/Pretendard-Regular.woff" rel="preload" type="font/woff"/> <link as="font" crossorigin="anonymous" href="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/Pretendard-Medium.woff" rel="preload" type="font/woff"/> <link as="font" crossorigin="anonymous" href="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/Pretendard-SemiBold.woff" rel="preload" type="font/woff"/> <link as="font" crossorigin="anonymous" href="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/Pretendard-Bold.woff" rel="preload" type="font/woff"/> <link as="font" crossorigin="anonymous" href="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/Pretendard-ExtraBold.woff" rel="preload" type="font/woff"/> <script>
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/onetenth2.mycafe24.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8"}};
 /*! This file is auto-generated */
@@ -183,6 +178,7 @@ body, body * {
 <img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-mobile-second" src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"/>
 </a>
 </div>
+<!--헤드 메뉴
 <div class="uicore-nav-menu">
 <div class="uicore-menu-container uicore-nav"><ul class="uicore-menu" data-uils="header-menu" data-uils-title="Navigation Menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1282"><a href="https://onetenth2.mycafe24.com/%ec%9d%b8%ec%82%ac%eb%a7%90/"><span class="ui-menu-item-wrapper">회사소개</span></a>
 <ul class="sub-menu">
@@ -210,7 +206,8 @@ body, body * {
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-798"><a href="https://onetenth2.mycafe24.com/contact/"><span class="ui-menu-item-wrapper">문의하기</span></a></li>
 </ul>
 </li>
-</ul></div><div class="uicore uicore-extra" data-uils="header_extra" data-uils-title="Header Extras"> <div class="uicore-cta-wrapper">
+</ul></div>-->
+<div class="uicore uicore-extra" data-uils="header_extra" data-uils-title="Header Extras"> <div class="uicore-cta-wrapper">
 <a class="uicore-btn" href="mailto:parj1110@gmail.com" target="_self">
 <span class="elementor-button-text">
 						3초만에 문의하기                    </span>
@@ -265,6 +262,7 @@ body, body * {
 </div>
 </div>
 </div>
+<!--
 <div class="elementor-element elementor-element-037d192 e-con-full bdt-backdrop-filter-yes e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="037d192" data-settings='{"background_background":"classic","animation":"zoomOutUp","animation_delay":"600"}'>
 <div class="elementor-element elementor-element-ad78400 e-con-full e-flex e-con e-child" data-element_type="container" data-id="ad78400">
 <div class="elementor-element elementor-element-6f90dc4 elementor-widget elementor-widget-counter" data-element_type="widget" data-id="6f90dc4" data-widget_type="counter.default">
@@ -306,6 +304,7 @@ body, body * {
 </div>
 </div>
 </div>
+-->
 <div class="elementor-element elementor-element-1e2d338 elementor-absolute ep-parallax-effects-yes elementor-widget elementor-widget-image" data-element_type="widget" data-id="1e2d338" data-settings='{"_position":"absolute","ep_parallax_effects_show":"yes","motion_fx_motion_fx_scrolling":"yes","motion_fx_translateY_effect":"yes","motion_fx_translateY_direction":"negative","motion_fx_translateY_speed":{"unit":"px","size":2,"sizes":[]},"ep_parallax_effects_rotate_start":{"unit":"px","size":"","sizes":[]},"ep_parallax_effects_rotate_end":{"unit":"px","size":"","sizes":[]},"ep_parallax_effects_scale_start":{"unit":"px","size":1,"sizes":[]},"ep_parallax_effects_scale_end":{"unit":"px","size":1,"sizes":[]},"ep_parallax_effects_hue_value":{"unit":"px","size":"","sizes":[]},"ep_parallax_effects_sepia_value":{"unit":"px","size":1,"sizes":[]},"ep_parallax_effects_easing_value":{"unit":"px","size":1,"sizes":[]},"ep_parallax_effects_target":"self","motion_fx_translateY_affectedRange":{"unit":"%","size":"","sizes":{"start":0,"end":100}},"motion_fx_devices":["desktop","tablet","mobile"]}' data-widget_type="image.default">
 <div class="elementor-widget-container">
 <img alt="" class="attachment-full size-full wp-image-978" decoding="async" fetchpriority="high" height="578" sizes="(max-width: 600px) 100vw, 600px" src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png" srcset="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png" width="600"/> </div>
@@ -632,6 +631,7 @@ Nord tax과 함께 하세요</h2> </div>
 </div>
 </div>
 </div>
+<!-- 하단메뉴 삭
 <div class="elementor-element elementor-element-e5eaa29 e-con-full e-flex e-con e-child" data-element_type="container" data-id="e5eaa29">
 <div class="elementor-element elementor-element-e1014f0 elementor-nav-menu__align-start elementor-nav-menu--dropdown-none no-submenu elementor-widget elementor-widget-nav-menu" data-element_type="widget" data-id="e1014f0" data-settings='{"layout":"vertical","submenu_icon":{"value":"&lt;i class=\"\"&gt;&lt;\/i&gt;","library":""}}' data-widget_type="nav-menu.default">
 <div class="elementor-widget-container">
@@ -694,6 +694,7 @@ Nord tax과 함께 하세요</h2> </div>
 </div>
 </div>
 </div>
+-->
 </div>
 <div class="elementor-element elementor-element-2f80859 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-element_type="widget" data-id="2f80859" data-widget_type="divider.default">
 <div class="elementor-widget-container">
@@ -715,12 +716,6 @@ Nord tax과 함께 하세요</h2> </div>
 <div class="elementor-widget-container">
 <p>상호명: Nord Tax<br>대표: 안지홍 <br>사업자등록번호: 123123=123123
 <br/>주소: 1234 Virginia, 123123</br></br></p> </div>
-</div>
-</div>
-<div class="elementor-element elementor-element-3f64a7a e-con-full e-flex e-con e-child" data-element_type="container" data-id="3f64a7a">
-<div class="elementor-element elementor-element-a356e83 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="a356e83" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<div class="elementor-heading-title elementor-size-default">Nord Tax. All rights reserved.</div> </div>
 </div>
 </div>
 </div>
@@ -867,6 +862,6 @@ var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"};
 </script>
 <script id="wpforms-elementor-js" src="https://onetenth2.mycafe24.com/wp-content/plugins/wpforms/assets/js/integrations/elementor/frontend.min.js?ver=1.8.2.1"></script>
-</link></link></body>
+</body>
 </html>
 <!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1744783045 -->
