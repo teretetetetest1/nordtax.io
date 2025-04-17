@@ -7,7 +7,6 @@
 <link href="https://gmpg.org/xfn/11" rel="profile"/>
 <style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 <!-- Rank Math 검색 엔진 최적화 - https://rankmath.com/ -->
-<title>Nord Tax</title><link as="image" data-rocket-preload="" fetchpriority="high" href="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png" imagesizes="(max-width: 600px) 100vw, 600px" imagesrcset="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png" rel="preload"/>
 <meta content="정확한, 저렴한 Tax Return" name="description">
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots">
 <link href="https://onetenth2.mycafe24.com/" rel="canonical">
@@ -247,7 +246,7 @@ body, body * {
     AI와 전문가가 함께하는 믿을 수 있는 세금신고
   </h2>
   <h2 class="elementor-heading-title elementor-size-default" style="margin-top:0;">
-    인공지능과 LLM을 사용한 최고의 절세방안 도입.
+    인공지능과 LLM을 사용한 최고의 절세방안
   </h2>
 </div>
 <div class="elementor-element elementor-element-97da5f3 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="97da5f3" data-settings='{"_animation":"fadeInUp","_animation_delay":"300"}' data-widget_type="text-editor.default">
