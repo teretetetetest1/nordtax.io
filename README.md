@@ -571,186 +571,190 @@ body, body * {
 <div class="elementor-widget-container">
 <p>최소 3명의 회계사와 세무사가 Crosscheck 을 진행하며, 마지막<br>단계에서 ai로 한번 더 체크합니다.</p> </div>
 <div style="height: 150px;"></div> <!-- 여백 단위 수정 -->
-<div class="elementor-element elementor-element-9c99bbc e-flex e-con-boxed e-con e-parent" data-element_type="container" data-id="9c99bbc" data-settings='{"background_background":"classic"}'>
-<div class="e-con-inner">
-<div class="elementor-element elementor-element-c8d7fac e-con-full e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="c8d7fac" data-settings='{"animation":"fadeInUp","animation_delay":"0"}'>
-<div class="elementor-element elementor-element-34422a3 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="34422a3" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<div class="elementor-heading-title elementor-size-default">절세 전략이 어떻게 진행되는지 궁금하신가요?</div> </div>
-</div>
-<div class="elementor-element elementor-element-e43ef07 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="e43ef07" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">체계적인 절세 전략 프로세스</h2> </div>
-</div>
-</div>
-<div class="elementor-element elementor-element-05bb2a6 e-con-full e-grid e-con e-child" data-element_type="container" data-id="05bb2a6">
-<div class="elementor-element elementor-element-9406cd7 e-con-full e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="9406cd7" data-settings='{"animation":"fadeInUp","animation_delay":"300"}'>
-<div class="elementor-element elementor-element-f768f47 elementor-view-default elementor-widget elementor-widget-icon" data-element_type="widget" data-id="f768f47" data-widget_type="icon.default">
-<div class="elementor-widget-container">
-<div class="elementor-icon-wrapper">
-<div class="elementor-icon">
-<svg aria-hidden="true" class="e-font-icon-svg e-fas-chart-bar" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M332.8 320h38.4c6.4 0 12.8-6.4 12.8-12.8V172.8c0-6.4-6.4-12.8-12.8-12.8h-38.4c-6.4 0-12.8 6.4-12.8 12.8v134.4c0 6.4 6.4 12.8 12.8 12.8zm96 0h38.4c6.4 0 12.8-6.4 12.8-12.8V76.8c0-6.4-6.4-12.8-12.8-12.8h-38.4c-6.4 0-12.8 6.4-12.8 12.8v230.4c0 6.4 6.4 12.8 12.8 12.8zm-288 0h38.4c6.4 0 12.8-6.4 12.8-12.8v-70.4c0-6.4-6.4-12.8-12.8-12.8h-38.4c-6.4 0-12.8 6.4-12.8 12.8v70.4c0 6.4 6.4 12.8 12.8 12.8zm96 0h38.4c6.4 0 12.8-6.4 12.8-12.8V108.8c0-6.4-6.4-12.8-12.8-12.8h-38.4c-6.4 0-12.8 6.4-12.8 12.8v198.4c0 6.4 6.4 12.8 12.8 12.8zM496 384H64V80c0-8.84-7.16-16-16-16H16C7.16 64 0 71.16 0 80v336c0 17.67 14.33 32 32 32h464c8.84 0 16-7.16 16-16v-32c0-8.84-7.16-16-16-16z"></path></svg> </div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-979ad79 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="979ad79" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">세금 정보 수집</h3> </div>
-</div>
-<div class="elementor-element elementor-element-6b38243 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="6b38243" data-widget_type="text-editor.default">
-<div class="elementor-widget-container">
-<p>클라이언트의 W-2, 1099, 해외소득, 경비자료 등 모든 세금 관련 서류를 안전하게 수집합니다.<br>맞춤형 체크리스트 제공으로 누락 없이 철저히 준비합니다.</p> </div>
-</div>
-</div>
-<div class="elementor-element elementor-element-6af87fe e-con-full e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="6af87fe" data-settings='{"animation":"fadeInUp","animation_delay":"400"}'>
-<div class="elementor-element elementor-element-f0f24b6 elementor-view-default elementor-widget elementor-widget-icon" data-element_type="widget" data-id="f0f24b6" data-widget_type="icon.default">
-<div class="elementor-widget-container">
-<div class="elementor-icon-wrapper">
-<div class="elementor-icon">
-<svg aria-hidden="true" class="e-font-icon-svg e-far-plus-square" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M352 240v32c0 6.6-5.4 12-12 12h-88v88c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-88h-88c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h88v-88c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v88h88c6.6 0 12 5.4 12 12zm96-160v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V80c0-26.5 21.5-48 48-48h352c26.5 0 48 21.5 48 48zm-48 346V86c0-3.3-2.7-6-6-6H54c-3.3 0-6 2.7-6 6v340c0 3.3 2.7 6 6 6h340c3.3 0 6-2.7 6-6z"></path></svg> </div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-0d45528 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d45528" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">검토 및 1차 시뮬레이션</h3> </div>
-</div>
-<div class="elementor-element elementor-element-70b88b6 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="70b88b6" data-widget_type="text-editor.default">
-<div class="elementor-widget-container">
-<p>미국 공인 회계사(CPA) 또는 세무 전문가가 직접 자료를 검토합니다<br>세액 공제 및 환급액을 예측한 1차 리포트를 제공합니다 </p> </div>
-</div>
-</div>
-<div class="elementor-element elementor-element-c2a9b48 e-con-full e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="c2a9b48" data-settings='{"animation":"fadeInUp","animation_delay":"500"}'>
-<div class="elementor-element elementor-element-f5b15a8 elementor-view-default elementor-widget elementor-widget-icon" data-element_type="widget" data-id="f5b15a8" data-widget_type="icon.default">
-<div class="elementor-widget-container">
-<div class="elementor-icon-wrapper">
-<div class="elementor-icon">
-<svg aria-hidden="true" class="e-font-icon-svg e-far-file-alt" viewbox="0 0 384 512" xmlns="http://www.w3.org/2000/svg"><path d="M288 248v28c0 6.6-5.4 12-12 12H108c-6.6 0-12-5.4-12-12v-28c0-6.6 5.4-12 12-12h168c6.6 0 12 5.4 12 12zm-12 72H108c-6.6 0-12 5.4-12 12v28c0 6.6 5.4 12 12 12h168c6.6 0 12-5.4 12-12v-28c0-6.6-5.4-12-12-12zm108-188.1V464c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V48C0 21.5 21.5 0 48 0h204.1C264.8 0 277 5.1 286 14.1L369.9 98c9 8.9 14.1 21.2 14.1 33.9zm-128-80V128h76.1L256 51.9zM336 464V176H232c-13.3 0-24-10.7-24-24V48H48v416h288z"></path></svg> </div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-061ac7b elementor-widget elementor-widget-heading" data-element_type="widget" data-id="061ac7b" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">3중 검토 및 AI 리뷰</h3> </div>
-</div>
-<div class="elementor-element elementor-element-fa22e5e elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="fa22e5e" data-widget_type="text-editor.default">
-<div class="elementor-widget-container">
-<p>최소 3명의 세무 전문가가 교차 검토(Cross-check)합니다</p> </div>
-</div>
-</div>
-<div class="elementor-element elementor-element-d4d6426 e-con-full e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="d4d6426" data-settings='{"animation":"fadeInUp","animation_delay":"600"}'>
-<div class="elementor-element elementor-element-b191b1d elementor-view-default elementor-widget elementor-widget-icon" data-element_type="widget" data-id="b191b1d" data-widget_type="icon.default">
-<div class="elementor-widget-container">
-<div class="elementor-icon-wrapper">
-<div class="elementor-icon">
-<svg aria-hidden="true" class="e-font-icon-svg e-fas-chalkboard-teacher" viewbox="0 0 640 512" xmlns="http://www.w3.org/2000/svg"><path d="M208 352c-2.39 0-4.78.35-7.06 1.09C187.98 357.3 174.35 360 160 360c-14.35 0-27.98-2.7-40.95-6.91-2.28-.74-4.66-1.09-7.05-1.09C49.94 352-.33 402.48 0 464.62.14 490.88 21.73 512 48 512h224c26.27 0 47.86-21.12 48-47.38.33-62.14-49.94-112.62-112-112.62zm-48-32c53.02 0 96-42.98 96-96s-42.98-96-96-96-96 42.98-96 96 42.98 96 96 96zM592 0H208c-26.47 0-48 22.25-48 49.59V96c23.42 0 45.1 6.78 64 17.8V64h352v288h-64v-64H384v64h-76.24c19.1 16.69 33.12 38.73 39.69 64H592c26.47 0 48-22.25 48-49.59V49.59C640 22.25 618.47 0 592 0z"></path></svg> </div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-1340629 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="1340629" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">최종 보고서 제출 및 사후 안내</h3> </div>
-</div>
-<div class="elementor-element elementor-element-1f3db56 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="1f3db56" data-widget_type="text-editor.default">
-<div class="elementor-widget-container">
-<p>연방 및 주 정부에 전자 신고(e-file) 진행 후,<br>클라이언트에게 최종 보고서 제공합니다.</p> </div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-32cd09f elementor-absolute elementor-widget elementor-widget-image" data-element_type="widget" data-id="32cd09f" data-settings='{"_position":"absolute","motion_fx_motion_fx_scrolling":"yes","motion_fx_translateY_effect":"yes","motion_fx_translateY_speed":{"unit":"px","size":2,"sizes":[]},"motion_fx_translateY_affectedRange":{"unit":"%","size":"","sizes":{"start":0,"end":100}},"motion_fx_devices":["desktop","tablet","mobile"]}' data-widget_type="image.default">
-<div class="elementor-widget-container">
-<img alt="" class="attachment-large size-large wp-image-993" decoding="async" height="720" loading="lazy" sizes="(max-width: 720px) 100vw, 720px" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/Ellipse-2.png" srcset="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/Ellipse-2.png 720w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/Ellipse-2-300x300.png 300w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/Ellipse-2-150x150.png 150w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/Ellipse-2-650x650.png 650w" width="720"/> </div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-d314007 e-flex e-con-boxed e-con e-parent" data-element_type="container" data-id="d314007" data-settings='{"background_background":"classic"}'>
-<div class="e-con-inner">
-<div class="elementor-element elementor-element-c9ed5e4 e-con-full e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="c9ed5e4" data-settings='{"animation":"fadeInUp","animation_delay":"0"}'>
-<div class="elementor-element elementor-element-ab4621d elementor-widget elementor-widget-heading" data-element_type="widget" data-id="ab4621d" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<div class="elementor-heading-title elementor-size-default">더 궁금한게 있으신가요?</div> </div>
-</div>
-<div class="elementor-element elementor-element-c71a4f0 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="c71a4f0" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">자주 묻는 질문</h2> </div>
-</div>
-</div>
-<div class="elementor-element elementor-element-211b0ac e-flex e-con-boxed e-con e-child" data-element_type="container" data-id="211b0ac">
-<div class="e-con-inner">
-<div class="elementor-element elementor-element-bb0b87d ui-e-animation-ico-spin ui-e-animation-acc-basic elementor-invisible elementor-widget elementor-widget-uicore-accordion" data-element_type="widget" data-id="bb0b87d" data-settings='{"_animation":"fadeInUp","_animation_delay":"300","collapsible":"true","active_hash":"no","accordion_animation":"ui-e-animation-acc-basic"}' data-widget_type="uicore-accordion.default">
-<div class="elementor-widget-container">
-<div class="ui-e-accordion">
-<div aria-controls="ui-e-acc-1" aria-expanded="true" class="ui-e-item ui-open" id="ui-e-q-%ec%8b%ad%eb%b6%84%ec%9d%98%ec%9d%bc%ec%9d%80-%ec%96%b4%eb%96%a4-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%84%9c%eb%b9%84%ec%8a%a4%eb%a5%bc-%ec%a0%9c%ea%b3%b5%ed%95%98%eb%82%98%ec%9a%94" role="button" tabindex="0">
-<h5 class="ui-e-title ui-right">
-<span aria-hidden="true" class="ui-e-icon ui-e-right">
-<span class="ui-e-icon-closed">
-<svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-down" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg> </span>
-</span>
-<span class="ui-e-title-text">
-                                                                Q. 세금 신고는 언제까지 해야 하나요?                            </span>
-</h5>
-<div aria-labelledby="ui-e-q-%ec%8b%ad%eb%b6%84%ec%9d%98%ec%9d%bc%ec%9d%80-%ec%96%b4%eb%96%a4-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%84%9c%eb%b9%84%ec%8a%a4%eb%a5%bc-%ec%a0%9c%ea%b3%b5%ed%95%98%eb%82%98%ec%9a%94" class="ui-e-content" id="ui-e-acc-1" style="">
-<p>일반적으로 미국의 세금 신고 마감일은 매년 4월 15일입니다.<br>
-단, 해외 거주자나 신고 연장을 진행하면 최대 10월 15일까지 연장할 수 있습니다.</p> </div>
-</div>
-<div aria-controls="ui-e-acc-2" aria-expanded="false" class="ui-e-item" id="ui-e-q-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%a0%84%eb%9e%b5%ec%9d%80-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%88%98%eb%a6%bd%eb%90%98%eb%82%98%ec%9a%94" role="button" tabindex="0">
-<h5 class="ui-e-title ui-right">
-<span aria-hidden="true" class="ui-e-icon ui-e-right">
-<span class="ui-e-icon-closed">
-<svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-down" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg> </span>
-</span>
-<span class="ui-e-title-text">
-                                                                Q. W-2나 1099 외에도 어떤 서류가 필요한가요?                            </span>
-</h5>
-<div aria-labelledby="ui-e-q-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%a0%84%eb%9e%b5%ec%9d%80-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%88%98%eb%a6%bd%eb%90%98%eb%82%98%ec%9a%94" class="ui-e-content" id="ui-e-acc-2" style="display:none;">
-<p>다음과 같은 서류가 있을 수 있습니다:
-해외소득 증빙 (예: 외국 근로소득 원천징수 영수증)<br>
-경비 영수증 (자영업자나 부동산 보유자) <br>
-자녀 관련 세액공제 서류(등록금, 기숙사비, 책값등) <br>
-은행 이자 및 배당금 자료 (1099-INT, 1099-DIV) <br>
-의료비나 교육비 관련 영수증 <br>
+<div class="elementor-element elementor-element-9c99bbc e-flex e-con-boxed e-con e-parent"
+     data-element_type="container" data-id="9c99bbc"
+     data-settings='{"background_background":"classic"}'>
+  <div class="e-con-inner">
+    <div class="elementor-element elementor-element-c8d7fac e-con-full e-flex elementor-invisible e-con e-child"
+         data-element_type="container" data-id="c8d7fac"
+         data-settings='{"animation":"fadeInUp","animation_delay":"0"}'>
+      <div class="elementor-element elementor-element-34422a3 elementor-widget elementor-widget-heading"
+           data-element_type="widget" data-id="34422a3" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <div class="elementor-heading-title elementor-size-default">
+            절세 전략이 어떻게 진행되는지 궁금하신가요?
+          </div>
+        </div>
+      </div>
+      <div class="elementor-element elementor-element-e43ef07 elementor-widget elementor-widget-heading"
+           data-element_type="widget" data-id="e43ef07" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <h2 class="elementor-heading-title elementor-size-default">
+            체계적인 절세 전략 프로세스
+          </h2>
+        </div>
+      </div>
+    </div>
+    <div class="elementor-element elementor-element-c71a4f0 elementor-widget elementor-widget-heading"
+         data-element_type="widget" data-id="c71a4f0" data-widget_type="heading.default">
+      <div class="elementor-widget-container">
+        <h2 class="elementor-heading-title elementor-size-default">
+          자주 묻는 질문
+        </h2>
+      </div>
+    </div>
+    <div class="elementor-element elementor-element-211b0ac e-flex e-con-boxed e-con e-child"
+         data-element_type="container" data-id="211b0ac">
+      <div class="e-con-inner">
+        <div class="elementor-element elementor-element-bb0b87d ui-e-animation-ico-spin ui-e-animation-acc-basic elementor-invisible elementor-widget elementor-widget-uicore-accordion"
+             data-element_type="widget" data-id="bb0b87d"
+             data-settings='{"_animation":"fadeInUp","_animation_delay":"300","collapsible":"true","active_hash":"no","accordion_animation":"ui-e-animation-acc-basic"}'
+             data-widget_type="uicore-accordion.default">
+          <div class="elementor-widget-container">
+            <div class="ui-e-accordion">
+              <div class="ui-e-item ui-open"
+                   id="ui-e-q-acc-1"
+                   aria-controls="ui-e-acc-1"
+                   aria-expanded="true"
+                   role="button"
+                   tabindex="0">
+                <h5 class="ui-e-title ui-right">
+                  <span class="ui-e-icon ui-e-right" aria-hidden="true">
+                    <span class="ui-e-icon-closed">
+                      <!-- SVG 아이콘 생략 -->
+                    </span>
+                  </span>
+                  <span class="ui-e-title-text">
+                    Q. 세금 신고는 언제까지 해야 하나요?
+                  </span>
+                </h5>
+                <div class="ui-e-content"
+                     id="ui-e-acc-1"
+                     aria-labelledby="ui-e-q-acc-1"
+                     style="">
+                  <p>
+                    일반적으로 미국의 세금 신고 마감일은 매년 4월 15일입니다.<br>
+                    단, 해외 거주자나 신고 연장을 진행하면 최대 10월 15일까지 연장할 수 있습니다.
+                  </p>
+                </div>
+              </div>
+              <div class="ui-e-item"
+                   id="ui-e-q-acc-2"
+                   aria-controls="ui-e-acc-2"
+                   aria-expanded="false"
+                   role="button"
+                   tabindex="0">
+                <h5 class="ui-e-title ui-right">
+                  <span class="ui-e-icon ui-e-right" aria-hidden="true">
+                    <span class="ui-e-icon-closed">
+                      <!-- SVG 아이콘 -->
+                    </span>
+                  </span>
+                  <span class="ui-e-title-text">
+                    Q. W-2나 1099 외에도 어떤 서류가 필요한가요?
+                  </span>
+                </h5>
+                <div class="ui-e-content"
+                     id="ui-e-acc-2"
+                     aria-labelledby="ui-e-q-acc-2"
+                     style="display:none;">
+                  <p>
+                    다음과 같은 서류가 있을 수 있습니다:<br>
+                    해외소득 증빙(예: 외국 근로소득 원천징수 영수증)<br>
+                    경비 영수증(자영업자나 부동산 보유자)<br>
+                    자녀 관련 세액공제 서류(등록금, 기숙사비, 책값 등)<br>
+                    은행 이자 및 배당금 자료(1099‑INT, 1099‑DIV)<br>
+                    의료비나 교육비 관련 영수증
+                  </p>
+                </div>
+              </div>
+              <div class="ui-e-item"
+                   id="ui-e-q-acc-3"
+                   aria-controls="ui-e-acc-3"
+                   aria-expanded="false"
+                   role="button"
+                   tabindex="0">
+                <h5 class="ui-e-title ui-right">
+                  <span class="ui-e-icon ui-e-right" aria-hidden="true">
+                    <span class="ui-e-icon-closed">
+                      <!-- SVG 아이콘 -->
+                    </span>
+                  </span>
+                  <span class="ui-e-title-text">
+                    Q. 환급은 언제 받을 수 있나요?
+                  </span>
+                </h5>
+                <div class="ui-e-content"
+                     id="ui-e-acc-3"
+                     aria-labelledby="ui-e-q-acc-3"
+                     style="display:none;">
+                  <p>
+                    전자신고 후 보통 2~3주 이내에 IRS로부터 환급을 받을 수 있습니다.<br>
+                    다만, Earned Income Credit이나 Additional Child Tax Credit이 있는 경우 조금 더 지연될 수 있습니다.
+                  </p>
+                </div>
+              </div>
+              <div class="ui-e-item"
+                   id="ui-e-q-acc-4"
+                   aria-controls="ui-e-acc-4"
+                   aria-expanded="false"
+                   role="button"
+                   tabindex="0">
+                <h5 class="ui-e-title ui-right">
+                  <span class="ui-e-icon ui-e-right" aria-hidden="true">
+                    <span class="ui-e-icon-closed">
+                      <!-- SVG 아이콘 -->
+                    </span>
+                  </span>
+                  <span class="ui-e-title-text">
+                    Q. 한국 소득이나 자산도 신고해야 하나요?
+                  </span>
+                </h5>
+                <div class="ui-e-content"
+                     id="ui-e-acc-4"
+                     aria-labelledby="ui-e-q-acc-4"
+                     style="display:none;">
+                  <p>
+                    미국 시민권자, 영주권자 또는 미국 세법상 거주자는 전 세계 소득을 신고해야 합니다.<br>
+                    한국에서 받은 근로소득, 배당, 임대소득 등이 있다면 Form 1116(외국납부세액 공제) 등을 통해 절세가 가능합니다.
+                  </p>
+                </div>
+              </div>
+              <div class="ui-e-item"
+                   id="ui-e-q-acc-5"
+                   aria-controls="ui-e-acc-5"
+                   aria-expanded="false"
+                   role="button"
+                   tabindex="0">
+                <h5 class="ui-e-title ui-right">
+                  <span class="ui-e-icon ui-e-right" aria-hidden="true">
+                    <span class="ui-e-icon-closed">
+                      <!-- SVG 아이콘 -->
+                    </span>
+                  </span>
+                  <span class="ui-e-title-text">
+                    Q. 세금 신고를 잘못하면 어떻게 되나요?
+                  </span>
+                </h5>
+                <div class="ui-e-content"
+                     id="ui-e-acc-5"
+                     aria-labelledby="ui-e-q-acc-5"
+                     style="display:none;">
+                  <p>
+                    잘못된 신고는 IRS 감사 대상이 되거나 과태료 및 이자가 부과될 수 있습니다.<br>
+                    Nord Tax는 3중 검토 + AI 자동오류 점검으로 신고 정확성을 최대한 보장합니다.
+                  </p>
+                </div>
+              </div>
+            </div> <!-- .ui-e-accordion -->
+          </div> <!-- .elementor-widget-container -->
+        </div> <!-- .elementor-widget-uicore-accordion -->
+      </div> <!-- .e-con-inner for accordion -->
+    </div> <!-- .elementor-element-211b0ac -->
 
-</p> </div>
-</div>
-<div aria-controls="ui-e-acc-3" aria-expanded="false" class="ui-e-item" id="ui-e-q-%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%9d%b4%ec%9a%a9-%ec%a0%88%ec%b0%a8%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%90%98%eb%82%98%ec%9a%94" role="button" tabindex="0">
-<h5 class="ui-e-title ui-right">
-<span aria-hidden="true" class="ui-e-icon ui-e-right">
-<span class="ui-e-icon-closed">
-<svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-down" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg> </span>
-</span>
-<span class="ui-e-title-text">
-                                                                Q. 환급은 언제 받을 수 있나요?                           </span>
-</h5>
-<div aria-labelledby="ui-e-q-%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%9d%b4%ec%9a%a9-%ec%a0%88%ec%b0%a8%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%90%98%eb%82%98%ec%9a%94" class="ui-e-content" id="ui-e-acc-3" style="display:none;">
-<p>전자신고 후 보통 2~3주 이내에 IRS로부터 환급을 받을 수 있습니다.
-다만, Earned Income Credit이나 Additional Child Tax Credit이 있는 경우 조금 더 지연될 수 있습니다.</p></div>
-</div>
-<div aria-controls="ui-e-acc-4" aria-expanded="false" class="ui-e-item" id="ui-e-q-%ea%b2%b0%ec%a0%9c-%eb%b0%a9%ec%8b%9d%ec%9d%80-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%90%98%eb%82%98%ec%9a%94" role="button" tabindex="0">
-<h5 class="ui-e-title ui-right">
-<span aria-hidden="true" class="ui-e-icon ui-e-right">
-<span class="ui-e-icon-closed">
-<svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-down" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg> </span>
-</span>
-<span class="ui-e-title-text">
-                                                                Q. 한국 소득이나 자산도 신고해야 하나요?                            </span>
-</h5>
-<div aria-labelledby="ui-e-q-%ea%b2%b0%ec%a0%9c-%eb%b0%a9%ec%8b%9d%ec%9d%80-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%90%98%eb%82%98%ec%9a%94" class="ui-e-content" id="ui-e-acc-4" style="display:none;">
-<p>미국 시민권자, 영주권자 또는 미국 세법상 거주자는 전 세계 소득을 신고해야 합니다.
-한국에서 받은 근로소득, 배당, 임대소득 등이 있다면 Form 1116 (외국납부세액 공제) 등을 통해 절세가 가능합니다.</p> </div>
-</div>
-<div aria-controls="ui-e-acc-5" aria-expanded="false" class="ui-e-item" id="ui-e-q-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%84%b1%ea%b3%bc%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%b8%a1%ec%a0%95%eb%90%98%eb%82%98%ec%9a%94" role="button" tabindex="0">
-<h5 class="ui-e-title ui-right">
-<span aria-hidden="true" class="ui-e-icon ui-e-right">
-<span class="ui-e-icon-closed">
-<svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-down" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg> </span>
-</span>
-<span class="ui-e-title-text">
-                                                                Q. 세금 신고를 잘못하면 어떻게 되나요?                            </span>
-</h5>
-<div aria-labelledby="ui-e-q-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%84%b1%ea%b3%bc%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%b8%a1%ec%a0%95%eb%90%98%eb%82%98%ec%9a%94" class="ui-e-content" id="ui-e-acc-5" style="display:none;">
-<p>잘못된 신고는 IRS 감사 대상이 되거나 과태료 및 이자가 부과될 수 있습니다.<br>
-Nord Tax는 3중 검토 + AI 자동오류 점검으로 신고 정확성을 최대한 보장합니다.</p> </div>
-</div>
+  </div> <!-- .e-con-inner -->
+</div> <!-- .elementor-element-9c99bbc -->
+
 </div>
 </div>
 </div>
