@@ -570,24 +570,7 @@ body, body * {
 <div class="elementor-element elementor-element-28cd5ba elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="28cd5ba" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
 <p>최소 3명의 회계사와 세무사가 Crosscheck 을 진행하며, 마지막<br>단계에서 ai로 한번 더 체크합니다.</p> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-daec06f e-con-full e-flex e-con e-parent" data-element_type="container" data-id="daec06f" data-settings='{"background_background":"classic"}'>
-<div class="elementor-element elementor-element-6ac9bd0 e-flex e-con-boxed elementor-invisible e-con e-child" data-element_type="container" data-id="6ac9bd0" data-settings='{"animation":"fadeInUp","animation_delay":"0"}'>
-<div class="e-con-inner">
-<div class="elementor-element elementor-element-ec40949 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="ec40949" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<div class="elementor-heading-title elementor-size-default">수 많은 사용자분들이 증명합니다</div> </div>
-</div>
-<div class="elementor-element elementor-element-0000cf0 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0000cf0" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">고객님들의 재구매로 증명합니다</h2> </div>
-<div style="height: 50px;"></div> <!-- 여백 단위 수정 -->
+<div style="height: 150px;"></div> <!-- 여백 단위 수정 -->
 <div class="elementor-element elementor-element-9c99bbc e-flex e-con-boxed e-con e-parent" data-element_type="container" data-id="9c99bbc" data-settings='{"background_background":"classic"}'>
 <div class="e-con-inner">
 <div class="elementor-element elementor-element-c8d7fac e-con-full e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="c8d7fac" data-settings='{"animation":"fadeInUp","animation_delay":"0"}'>
@@ -597,7 +580,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-e43ef07 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="e43ef07" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">체계적인 절세 전략 프로세스를 확인해보세요</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">체계적인 절세 전략 프로세스</h2> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-05bb2a6 e-con-full e-grid e-con e-child" data-element_type="container" data-id="05bb2a6">
@@ -612,11 +595,11 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-979ad79 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="979ad79" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">01 상담 및 분석</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">세금 정보 수집</h3> </div>
 </div>
 <div class="elementor-element elementor-element-6b38243 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="6b38243" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>전문가와의 1:1 상담을 통해 귀사의 절세 전략 니즈를 파악하고, 시장 분석을 진행합니다.</p> </div>
+<p>클라이언트의 W-2, 1099, 해외소득, 경비자료 등 모든 세금 관련 서류를 안전하게 수집합니다.<br>맞춤형 체크리스트 제공으로 누락 없이 철저히 준비합니다.</p> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-6af87fe e-con-full e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="6af87fe" data-settings='{"animation":"fadeInUp","animation_delay":"400"}'>
@@ -630,11 +613,11 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-0d45528 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0d45528" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">02 전략 제안</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">검토 및 1차 시뮬레이션</h3> </div>
 </div>
 <div class="elementor-element elementor-element-70b88b6 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="70b88b6" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>귀사의 목표에 맞춘 맞춤형 절세 전략 전략을 제안드립니다.</p> </div>
+<p>미국 공인 회계사(CPA) 또는 세무 전문가가 직접 자료를 검토합니다<br>세액 공제 및 환급액을 예측한 1차 리포트를 제공합니다 </p> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-c2a9b48 e-con-full e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="c2a9b48" data-settings='{"animation":"fadeInUp","animation_delay":"500"}'>
@@ -648,11 +631,11 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-061ac7b elementor-widget elementor-widget-heading" data-element_type="widget" data-id="061ac7b" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">03 실행 및 관리</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">3중 검토 및 AI 리뷰</h3> </div>
 </div>
 <div class="elementor-element elementor-element-fa22e5e elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="fa22e5e" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>제안된 전략을 기반으로 절세 전략 캠페인을 실행하고, 지속적으로 성과를 관리합니다.</p> </div>
+<p>최소 3명의 세무 전문가가 교차 검토(Cross-check)합니다</p> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-d4d6426 e-con-full e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="d4d6426" data-settings='{"animation":"fadeInUp","animation_delay":"600"}'>
@@ -666,11 +649,11 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-1340629 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="1340629" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">04 결과 분석 및 보고</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">최종 보고서 제출 및 사후 안내</h3> </div>
 </div>
 <div class="elementor-element elementor-element-1f3db56 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="1f3db56" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>캠페인 종료 후, 성과를 분석하여 결과 보고서를 제공합니다.</p> </div>
+<p>연방 및 주 정부에 전자 신고(e-file) 진행 후,<br>클라이언트에게 최종 보고서 제공합니다.</p> </div>
 </div>
 </div>
 </div>
@@ -704,10 +687,11 @@ body, body * {
 <svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-down" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg> </span>
 </span>
 <span class="ui-e-title-text">
-                                                                Q. Nord Tax은 어떤 절세 전략 서비스를 제공하나요?                            </span>
+                                                                Q. 세금 신고는 언제까지 해야 하나요?                            </span>
 </h5>
 <div aria-labelledby="ui-e-q-%ec%8b%ad%eb%b6%84%ec%9d%98%ec%9d%bc%ec%9d%80-%ec%96%b4%eb%96%a4-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%84%9c%eb%b9%84%ec%8a%a4%eb%a5%bc-%ec%a0%9c%ea%b3%b5%ed%95%98%eb%82%98%ec%9a%94" class="ui-e-content" id="ui-e-acc-1" style="">
-<p>“Nord Tax”은 다양한 업종과 비즈니스 목표에 최적화된 종합 절세 전략 서비스를 제공합니다. 주요 서비스로는 스마트스토어 절세 전략, 플레이스 절세 전략, 퍼포먼스 절세 전략, 바이럴 절세 전략, 브랜드 전략 및 디자인, 이벤트 및 프로모션 기획, 네이버 플레이스 관리, 인스타그램 전략 등이 있습니다. 저희는 데이터 기반의 분석과 창의적인 전략을 결합하여 고객사의 매출 증대와 브랜드 가치를 극대화하는 데 중점을 두고 있습니다.</p> </div>
+<p>일반적으로 미국의 세금 신고 마감일은 매년 4월 15일입니다.<br>
+단, 해외 거주자나 신고 연장을 진행하면 최대 10월 15일까지 연장할 수 있습니다.</p> </div>
 </div>
 <div aria-controls="ui-e-acc-2" aria-expanded="false" class="ui-e-item" id="ui-e-q-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%a0%84%eb%9e%b5%ec%9d%80-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%88%98%eb%a6%bd%eb%90%98%eb%82%98%ec%9a%94" role="button" tabindex="0">
 <h5 class="ui-e-title ui-right">
@@ -716,10 +700,17 @@ body, body * {
 <svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-down" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg> </span>
 </span>
 <span class="ui-e-title-text">
-                                                                Q. 절세 전략 전략은 어떻게 수립되나요?                            </span>
+                                                                Q. W-2나 1099 외에도 어떤 서류가 필요한가요?                            </span>
 </h5>
 <div aria-labelledby="ui-e-q-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%a0%84%eb%9e%b5%ec%9d%80-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%88%98%eb%a6%bd%eb%90%98%eb%82%98%ec%9a%94" class="ui-e-content" id="ui-e-acc-2" style="display:none;">
-<p>“Nord Tax”의 절세 전략 전략 수립은 철저한 분석과 맞춤형 접근을 바탕으로 이루어집니다. 먼저, 고객사와의 1:1 상담을 통해 비즈니스 목표와 현재 상황을 정확히 파악합니다. 그 다음, 시장 분석과 경쟁사 분석을 통해 데이터 기반의 인사이트를 도출하고, 이를 기반으로 최적화된 절세 전략 전략을 제안합니다. 마지막으로, 제안된 전략을 실제 캠페인에 적용하고 지속적으로 모니터링하며 필요에 따라 전략을 조정하여 최상의 결과를 도출합니다.</p> </div>
+<p>다음과 같은 서류가 있을 수 있습니다:
+해외소득 증빙 (예: 외국 근로소득 원천징수 영수증)<br>
+경비 영수증 (자영업자나 부동산 보유자) <br>
+자녀 관련 세액공제 서류(등록금, 기숙사비, 책값등) <br>
+은행 이자 및 배당금 자료 (1099-INT, 1099-DIV) <br>
+의료비나 교육비 관련 영수증 <br>
+
+</p> </div>
 </div>
 <div aria-controls="ui-e-acc-3" aria-expanded="false" class="ui-e-item" id="ui-e-q-%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%9d%b4%ec%9a%a9-%ec%a0%88%ec%b0%a8%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%90%98%eb%82%98%ec%9a%94" role="button" tabindex="0">
 <h5 class="ui-e-title ui-right">
@@ -728,10 +719,11 @@ body, body * {
 <svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-down" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg> </span>
 </span>
 <span class="ui-e-title-text">
-                                                                Q. 서비스 이용 절차는 어떻게 되나요?                            </span>
+                                                                Q. 환급은 언제 받을 수 있나요?                           </span>
 </h5>
 <div aria-labelledby="ui-e-q-%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%9d%b4%ec%9a%a9-%ec%a0%88%ec%b0%a8%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%90%98%eb%82%98%ec%9a%94" class="ui-e-content" id="ui-e-acc-3" style="display:none;">
-<p>“Nord Tax”의 서비스 이용 절차는 다음과 같습니다:</p><ol><li><strong>상담 신청:</strong> 홈페이지를 통해 무료 상담을 신청합니다.</li><li><strong>상담 및 분석:</strong> 전문 마케터와의 1:1 상담을 통해 비즈니스 목표와 현재 절세 전략 상황을 분석합니다.</li><li><strong>전략 제안:</strong> 분석 결과를 바탕으로 맞춤형 절세 전략 전략을 제안드립니다.</li><li><strong>계약 및 실행:</strong> 제안된 전략에 동의하시면 계약을 체결하고, 절세 전략 캠페인을 실행합니다.</li><li><strong>성과 분석:</strong> 캠페인 진행 중 및 종료 후, 성과를 분석하고 보고서를 제공합니다.</li><li><strong>지속적인 지원:</strong> 필요에 따라 추가적인 전략 조정과 지원을 통해 지속적인 매출 성장을 도모합니다.</li></ol> </div>
+<p>전자신고 후 보통 2~3주 이내에 IRS로부터 환급을 받을 수 있습니다.
+다만, Earned Income Credit이나 Additional Child Tax Credit이 있는 경우 조금 더 지연될 수 있습니다.</p></div>
 </div>
 <div aria-controls="ui-e-acc-4" aria-expanded="false" class="ui-e-item" id="ui-e-q-%ea%b2%b0%ec%a0%9c-%eb%b0%a9%ec%8b%9d%ec%9d%80-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%90%98%eb%82%98%ec%9a%94" role="button" tabindex="0">
 <h5 class="ui-e-title ui-right">
@@ -740,10 +732,11 @@ body, body * {
 <svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-down" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg> </span>
 </span>
 <span class="ui-e-title-text">
-                                                                Q. 결제 방식은 어떻게 되나요?                            </span>
+                                                                Q. 한국 소득이나 자산도 신고해야 하나요?                            </span>
 </h5>
 <div aria-labelledby="ui-e-q-%ea%b2%b0%ec%a0%9c-%eb%b0%a9%ec%8b%9d%ec%9d%80-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%90%98%eb%82%98%ec%9a%94" class="ui-e-content" id="ui-e-acc-4" style="display:none;">
-<p>“Nord Tax”은 고객의 편의를 위해 다양한 결제 방식을 지원합니다. 신용카드, 계좌이체, 모바일 결제 등 안전하고 간편한 결제 수단을 통해 서비스를 이용하실 수 있습니다. 또한, 장기 계약이나 대규모 프로젝트의 경우 맞춤형 결제 계획을 제공하여 고객사의 재정적 부담을 최소화할 수 있도록 돕고 있습니다. 결제 과정은 투명하게 진행되며, 모든 거래는 안전하게 보호됩니다.</p> </div>
+<p>미국 시민권자, 영주권자 또는 미국 세법상 거주자는 전 세계 소득을 신고해야 합니다.
+한국에서 받은 근로소득, 배당, 임대소득 등이 있다면 Form 1116 (외국납부세액 공제) 등을 통해 절세가 가능합니다.</p> </div>
 </div>
 <div aria-controls="ui-e-acc-5" aria-expanded="false" class="ui-e-item" id="ui-e-q-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%84%b1%ea%b3%bc%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%b8%a1%ec%a0%95%eb%90%98%eb%82%98%ec%9a%94" role="button" tabindex="0">
 <h5 class="ui-e-title ui-right">
@@ -752,10 +745,11 @@ body, body * {
 <svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-down" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg> </span>
 </span>
 <span class="ui-e-title-text">
-                                                                Q. 절세 전략 성과는 어떻게 측정되나요?                            </span>
+                                                                Q. 세금 신고를 잘못하면 어떻게 되나요?                            </span>
 </h5>
 <div aria-labelledby="ui-e-q-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%84%b1%ea%b3%bc%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%b8%a1%ec%a0%95%eb%90%98%eb%82%98%ec%9a%94" class="ui-e-content" id="ui-e-acc-5" style="display:none;">
-<p>“Nord Tax”은 절세 전략 성과를 정확하고 체계적으로 측정하기 위해 다양한 KPI(핵심성과지표)를 설정하고, 실시간 데이터 분석을 통해 지속적으로 모니터링합니다. 주요 성과 지표로는 웹사이트 방문자 수, 전환율, 광고 ROI, 브랜드 인지도, 소셜 미디어 참여도 등이 있습니다. 또한, 정기적인 성과 보고서를 통해 고객사와 성과를 공유하고, 필요에 따라 전략을 조정하여 최적의 결과를 도출합니다. 이를 통해 고객사는 절세 전략 투자에 대한 명확한 가치를 확인할 수 있습니다.</p> </div>
+<p>잘못된 신고는 IRS 감사 대상이 되거나 과태료 및 이자가 부과될 수 있습니다.<br>
+Nord Tax는 3중 검토 + AI 자동오류 점검으로 신고 정확성을 최대한 보장합니다.</p> </div>
 </div>
 </div>
 </div>
