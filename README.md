@@ -392,7 +392,17 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-0730079 elementor-absolute hover-box-img elementor-widget elementor-widget-image" data-element_type="widget" data-id="0730079" data-settings='{"_position":"absolute"}' data-widget_type="image.default">
 <div class="elementor-widget-container">
-<img alt="" class="attachment-large size-large wp-image-986" decoding="async" height="667" loading="lazy" sizes="(max-width: 1000px) 100vw, 1000px" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/woman-working-1024x683.jpg" srcset="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/woman-working-1024x683.jpg 1024w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/woman-working-300x200.jpg 300w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/woman-working-768x512.jpg 768w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/woman-working-1536x1024.jpg 1536w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/woman-working-650x433.jpg 650w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/woman-working.jpg 1920w" width="1000"/> </div>
+<img
+  alt=""
+  class="attachment-large size-large wp-image-986"
+  decoding="async"
+  height="667"
+  loading="lazy"
+  sizes="(max-width: 1000px) 100vw, 1000px"
+  src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/military1.png"
+  srcset="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/military1.png 1000w"
+  width="1000"
+/> </div>
 </div>
 </a>
 <a class="elementor-element elementor-element-ce11b70 e-con-full aspect-1-1 hover-box e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="ce11b70" data-settings='{"animation":"fadeInUp","animation_delay":"400"}' href="/사업분야-디자인-1/">
