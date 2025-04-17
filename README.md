@@ -247,7 +247,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-0ccf598 elementor-invisible elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0ccf598" data-settings='{"_animation":"fadeInUp","_animation_delay":"0"}' data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">인공지능과 경험을 사용한 최고의 절세방안.</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">인공지능과 경험을 활용한 최고의 절세방안.</h2> </div>
 </div>
 <div class="elementor-element elementor-element-97da5f3 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="97da5f3" data-settings='{"_animation":"fadeInUp","_animation_delay":"300"}' data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
