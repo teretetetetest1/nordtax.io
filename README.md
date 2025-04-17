@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 
 <html lang="ko-KR" prefix="og: https://ogp.me/ns#">
@@ -502,7 +501,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-4a21481 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="4a21481" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>Nord Tax는 오차없이 촥! 신고해드립니다.</p> </div>
+<p>Nord Tax는 오차없이 촥! <br>신고해드립니다.</p> </div>
 </div>
 </div>
 </div>
@@ -536,7 +535,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-f3647f5 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="f3647f5" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>클라이언트의 모든 케이스를 건별로 분석하여 최고의 절세방안을 제시해드립니다.</p> </div>
+<p>클라이언트의 모든 케이스를 건별로 분석하여 최고의 절세방안을<br> 제시해드립니다.</p> </div>
 </div>
 </div>
 </div>
@@ -566,11 +565,11 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-f4505b5 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="f4505b5" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">정확한 처리</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">깔끔한 처리</h3> </div>
 </div>
 <div class="elementor-element elementor-element-28cd5ba elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="28cd5ba" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>최소 3명의 회계사와 세무사가 Crosscheck 을 진행하며, 마지막 단계에서 ai로 한번 더 체크합니다.</p> </div>
+<p>최소 3명의 회계사와 세무사가 Crosscheck 을 진행하며, 마지막<br>단계에서 ai로 한번 더 체크합니다.</p> </div>
 </div>
 </div>
 </div>
@@ -588,266 +587,7 @@ body, body * {
 <div class="elementor-element elementor-element-0000cf0 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0000cf0" data-widget_type="heading.default">
 <div class="elementor-widget-container">
 <h2 class="elementor-heading-title elementor-size-default">고객님들의 재구매로 증명합니다</h2> </div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-39aca9f e-con-full e-flex e-con e-child" data-element_type="container" data-id="39aca9f">
-<div class="elementor-element elementor-element-1ff5444 elementor-widget elementor-widget-global elementor-global-1455 elementor-widget-shortcode" data-element_type="widget" data-id="1ff5444" data-widget_type="shortcode.default">
-<div class="elementor-widget-container">
-<div class="elementor-shortcode">
-<link href="https://unpkg.com/flickity@2/dist/flickity.min.css" rel="stylesheet">
-<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
-<style>
-      .onetenth-carousel.carousel-wrap {
-      }
-      .onetenth-carousel .carousel {
-      }
-      .onetenth-carousel .flickity-viewport {
-        overflow: visible;
-      }
-      .onetenth-carousel .carousel-cell {
-        /* width: 30%; */
-        width: 300px;
-        margin-right: 30px;
-      }
-      .onetenth-carousel .carousel-cell.is-selected {
-      }
-      .onetenth-carousel .slide-wrap {
-        transition: transform 0.4s ease;
-      }
-      .onetenth-carousel .is-pointer-down .slide-wrap {
-        transform: scale(0.95);
-      }
-      .onetenth-carousel .slide-wrap {
-        display: flex;
-        flex-direction: column;
-        gap: 30px;
-      }
-      .onetenth-carousel .slide-img-wrap {
-        position: relative;
-        aspect-ratio: 4/5;
-        display: flex;
-        border-radius: 10px;
-        overflow: hidden;
-      }
-      .onetenth-carousel .slide-img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        transition: transform 0.3s;
-      }
-      .onetenth-carousel .carousel-cell:hover .slide-img {
-        transform: scale(1.1);
-      }
-      .onetenth-carousel .slide-title-wrap {
-        margin-bottom: 0.4em;
-      }
-      @media screen and (max-width: 1299px) {
-        .onetenth-carousel .carousel-cell {
-          width: calc((100% - 180px) / 3);
-        }
-      }
-      @media screen and (max-width: 1024px) {
-        .onetenth-carousel .carousel-cell {
-          width: calc((100% - 180px) / 2);
-          margin-right: 20px;
-        }
-      }
-      @media screen and (max-width: 768px) {
-        .onetenth-carousel .carousel-cell {
-          width: 80%;
-        }
-      }
-    </style>
-<div class="carousel-wrap onetenth-carousel">
-<!-- Flickity HTML init -->
-<div class="carousel">
-<div class="carousel-cell hover-box">
-<div class="slide-wrap">
-<div class="slide-img-wrap">
-<img alt="" class="slide-img" decoding="async" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/review01.jpg"/>
-</div>
-<!-- <div class="slide-content">
-                <div class="slide-title-wrap hover-underline underline-black">
-                  <h3 class="slide-title elementor-heading-title"></h3>
-                </div>
-                <div class="elementor-widget-text-editor">
-                  <p class="slide-desc"></p>
-                </div>
-              </div> -->
-</div>
-</div>
-<div class="carousel-cell hover-box">
-<div class="slide-wrap">
-<div class="slide-img-wrap">
-<img alt="" class="slide-img" decoding="async" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/review02.jpg"/>
-</div>
-<!-- <div class="slide-content">
-                <div class="slide-title-wrap hover-underline underline-black">
-                  <h3 class="slide-title elementor-heading-title"></h3>
-                </div>
-                <div class="elementor-widget-text-editor">
-                  <p class="slide-desc"></p>
-                </div>
-              </div> -->
-</div>
-</div>
-<div class="carousel-cell hover-box">
-<div class="slide-wrap">
-<div class="slide-img-wrap">
-<img alt="" class="slide-img" decoding="async" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/review03.jpg"/>
-</div>
-<!-- <div class="slide-content">
-                <div class="slide-title-wrap hover-underline underline-black">
-                  <h3 class="slide-title elementor-heading-title"></h3>
-                </div>
-                <div class="elementor-widget-text-editor">
-                  <p class="slide-desc"></p>
-                </div>
-              </div> -->
-</div>
-</div>
-<div class="carousel-cell hover-box">
-<div class="slide-wrap">
-<div class="slide-img-wrap">
-<img alt="" class="slide-img" decoding="async" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/review04.jpg"/>
-</div>
-<!-- <div class="slide-content">
-                <div class="slide-title-wrap hover-underline underline-black">
-                  <h3 class="slide-title elementor-heading-title"></h3>
-                </div>
-                <div class="elementor-widget-text-editor">
-                  <p class="slide-desc"></p>
-                </div>
-              </div> -->
-</div>
-</div>
-<div class="carousel-cell hover-box">
-<div class="slide-wrap">
-<div class="slide-img-wrap">
-<img alt="" class="slide-img" decoding="async" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/review01.jpg"/>
-</div>
-<!-- <div class="slide-content">
-                <div class="slide-title-wrap hover-underline underline-black">
-                  <h3 class="slide-title elementor-heading-title"></h3>
-                </div>
-                <div class="elementor-widget-text-editor">
-                  <p class="slide-desc"></p>
-                </div>
-              </div> -->
-</div>
-</div>
-<div class="carousel-cell hover-box">
-<div class="slide-wrap">
-<div class="slide-img-wrap">
-<img alt="" class="slide-img" decoding="async" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/review04.jpg"/>
-</div>
-<!-- <div class="slide-content">
-                <div class="slide-title-wrap hover-underline underline-black">
-                  <h3 class="slide-title elementor-heading-title"></h3>
-                </div>
-                <div class="elementor-widget-text-editor">
-                  <p class="slide-desc"></p>
-                </div>
-              </div> -->
-</div>
-</div>
-<div class="carousel-cell hover-box">
-<div class="slide-wrap">
-<div class="slide-img-wrap">
-<img alt="" class="slide-img" decoding="async" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/review03.jpg"/>
-</div>
-<!-- <div class="slide-content">
-                <div class="slide-title-wrap hover-underline underline-black">
-                  <h3 class="slide-title elementor-heading-title"></h3>
-                </div>
-                <div class="elementor-widget-text-editor">
-                  <p class="slide-desc"></p>
-                </div>
-              </div> -->
-</div>
-</div>
-<div class="carousel-cell hover-box">
-<div class="slide-wrap">
-<div class="slide-img-wrap">
-<img alt="" class="slide-img" decoding="async" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/review04.jpg"/>
-</div>
-<!-- <div class="slide-content">
-                <div class="slide-title-wrap hover-underline underline-black">
-                  <h3 class="slide-title elementor-heading-title"></h3>
-                </div>
-                <div class="elementor-widget-text-editor">
-                  <p class="slide-desc"></p>
-                </div>
-              </div> -->
-</div>
-</div>
-<div class="carousel-cell hover-box">
-<div class="slide-wrap">
-<div class="slide-img-wrap">
-<img alt="" class="slide-img" decoding="async" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/review01.jpg"/>
-</div>
-<!-- <div class="slide-content">
-                <div class="slide-title-wrap hover-underline underline-black">
-                  <h3 class="slide-title elementor-heading-title"></h3>
-                </div>
-                <div class="elementor-widget-text-editor">
-                  <p class="slide-desc"></p>
-                </div>
-              </div> -->
-</div>
-</div>
-<div class="carousel-cell hover-box">
-<div class="slide-wrap">
-<div class="slide-img-wrap">
-<img alt="" class="slide-img" decoding="async" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/review02.jpg"/>
-</div>
-<!-- <div class="slide-content">
-                <div class="slide-title-wrap hover-underline underline-black">
-                  <h3 class="slide-title elementor-heading-title"></h3>
-                </div>
-                <div class="elementor-widget-text-editor">
-                  <p class="slide-desc"></p>
-                </div>
-              </div> -->
-</div>
-</div>
-</div>
-</div>
-<script>
-      document.addEventListener("DOMContentLoaded", function(){
-        var flkty = new Flickity(".carousel", {
-          cellAlign: "left",
-          contain: true,
-          groupCells: true,
-          prevNextButtons: false, // 좌우 화살표 제거
-          pageDots: false, // 페이지 점 제거
-          freeScroll: true, // 슬라이더가 자유롭게 움직일 수 있게 설정
-          wrapAround: true, // 끝에서 다시 처음으로 돌아가게 함
-          draggable: true, // 마우스로 드래그 가능하게 설정
-          friction: 0.2, // 관성 효과를 천천히 설정
-          selectedAttraction: 0.01, // 슬라이드가 천천히 이동하는 정도
-        });
-
-        function animateSlider() {
-          flkty.x -= 1.5; // 천천히 왼쪽으로 이동 (숫자가 클수록 빨라짐)
-          flkty.positionSlider(); // 슬라이더 위치 업데이트
-          requestAnimationFrame(animateSlider); // 애니메이션 반복
-        }
-
-        animateSlider();
-
-        window.addEventListener("resize", function () {
-          flkty.options.groupCells = window.innerWidth <= 768 ? 1 : 2;
-          flkty.reloadCells();
-        });
-      });
-    </script>
-</link></div>
-</div>
-</div>
-</div>
-</div>
+<div style="height: 50px;"></div> <!-- 여백 단위 수정 -->
 <div class="elementor-element elementor-element-9c99bbc e-flex e-con-boxed e-con e-parent" data-element_type="container" data-id="9c99bbc" data-settings='{"background_background":"classic"}'>
 <div class="e-con-inner">
 <div class="elementor-element elementor-element-c8d7fac e-con-full e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="c8d7fac" data-settings='{"animation":"fadeInUp","animation_delay":"0"}'>
