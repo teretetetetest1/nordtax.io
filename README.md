@@ -251,7 +251,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-97da5f3 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="97da5f3" data-settings='{"_animation":"fadeInUp","_animation_delay":"300"}' data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>최소 3명의 회계·세무 전문가와 AI가 교차 검토하여<br> 정확한 세금 신고를 보장합니다.</p> </div>
+<p>최소 3명의 회계·세무 전문가가 교차 검토하여<br> 정확한 세금 신고를 보장합니다.</p> </div>
 </div>
 <div class="elementor-element elementor-element-11f9b7a elementor-invisible elementor-widget elementor-widget-button" data-element_type="widget" data-id="11f9b7a" data-settings='{"_animation":"fadeInUp","_animation_delay":"300"}' data-widget_type="button.default">
 <div class="elementor-widget-container">
