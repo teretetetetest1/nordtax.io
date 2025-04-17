@@ -7,6 +7,7 @@
 <link href="https://gmpg.org/xfn/11" rel="profile"/>
 <style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 <!-- Rank Math 검색 엔진 최적화 - https://rankmath.com/ -->
+<title>Nord Tax</title><link as="image" data-rocket-preload="" fetchpriority="high" href="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png" imagesizes="(max-width: 600px) 100vw, 600px" imagesrcset="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png" rel="preload"/>
 <meta content="정확한, 저렴한 Tax Return" name="description">
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots">
 <link href="https://onetenth2.mycafe24.com/" rel="canonical">
@@ -242,12 +243,11 @@ body, body * {
 <div class="elementor-element elementor-element-e1dea69 e-con-full e-flex e-con e-child" data-element_type="container" data-id="e1dea69">
 <div class="elementor-element elementor-element-c49486f elementor-invisible elementor-widget elementor-widget-heading" data-element_type="widget" data-id="c49486f" data-settings='{"_animation":"fadeInUp","_animation_delay":"0"}' data-widget_type="heading.default">
 <div class="elementor-widget-container">
-  <h2 class="elementor-heading-title elementor-size-default" style="margin-bottom:0;">
-    AI와 전문가가 함께하는 믿을 수 있는 세금신고
-  </h2>
-  <h2 class="elementor-heading-title elementor-size-default" style="margin-top:0;">
-    인공지능과 LLM을 사용한 최고의 절세방안
-  </h2>
+<h2 class="elementor-heading-title elementor-size-default">AI와 전문가가 함께하는 믿을 수 있는 세금신고</h2> </div>
+</div>
+<div class="elementor-element elementor-element-0ccf598 elementor-invisible elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0ccf598" data-settings='{"_animation":"fadeInUp","_animation_delay":"0"}' data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">LLM을 사용한 최고의 절세방안 도.</h2> </div>
 </div>
 <div class="elementor-element elementor-element-97da5f3 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="97da5f3" data-settings='{"_animation":"fadeInUp","_animation_delay":"300"}' data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
@@ -348,6 +348,10 @@ body, body * {
 <div class="elementor-widget-container">
 <h2 class="elementor-heading-title elementor-size-default">기술과 전문성의 만남<br/>
 완벽한 세금 솔루션.</h2> </div>
+<div class="elementor-element elementor-element-a3acbac elementor-invisible elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="a3acbac" data-settings='{"_animation":"fadeInUp","_animation_delay":"600"}' data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Where technology meets expertise for perfect tax solutions.</p><p>Driven by Technology, Powered by Experts.</p> </div>
+</div>
 <div class="elementor-element elementor-element-3a5d3ba elementor-invisible elementor-widget elementor-widget-button" data-element_type="widget" data-id="3a5d3ba" data-settings='{"_animation":"fadeInUp","_animation_delay":"600"}' data-widget_type="button.default">
 <div class="elementor-widget-container">
 <div class="elementor-button-wrapper">
@@ -496,7 +500,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-4a21481 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="4a21481" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>Doctor의 Cross check 처럼<br>세법 전문가의 Cross check</p> </div>
+<p>의사들이 환자들을 Cross check 하듯이<br>전문가의 Cross check 합니다.</p> </div>
 </div>
 </div>
 </div>
@@ -530,7 +534,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-f3647f5 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="f3647f5" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>클라이언트의 모든 케이스를<br> 하나씩 분석</p> </div>
+<p>클라이언트의 모든 케이스를 건별로 분석하여 최고의 절세방안을<br> 제시해드립니다.</p> </div>
 </div>
 </div>
 </div>
@@ -564,7 +568,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-28cd5ba elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="28cd5ba" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>최종 검토단계에서 <br>인공지능으로 한번번더 체크합니다.</p> </div>
+<p>최종 검토단계에서 <br>LLM를 사용하여 한번 더 체크합니다.</p> </div>
 </div>
 </div>
 </div>
