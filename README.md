@@ -172,9 +172,9 @@ body, body * {
 <nav class="uicore elementor-container">
 <div class="uicore-branding" data-uils="header-branding" data-uils-title="Site Logo">
 <a href="https://onetenth2.mycafe24.com/" rel="home">
-<img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-main" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/onetenth-logo-dark.png"/>
+<img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-main" src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"/>
 <img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-second" src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"/>
-<img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-mobile-main" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/onetenth-logo-dark.png"/>
+<img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-mobile-main" src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"/>
 <img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-mobile-second" src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"/>
 </a>
 </div>
@@ -311,7 +311,16 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-1c2058f elementor-absolute elementor-widget elementor-widget-image" data-element_type="widget" data-id="1c2058f" data-settings='{"_position":"absolute","motion_fx_motion_fx_scrolling":"yes","motion_fx_translateY_effect":"yes","motion_fx_translateY_speed":{"unit":"px","size":3,"sizes":[]},"motion_fx_translateY_affectedRange":{"unit":"%","size":"","sizes":{"start":0,"end":100}},"motion_fx_devices":["desktop","tablet","mobile"]}' data-widget_type="image.default">
 <div class="elementor-widget-container">
-<img alt="" class="attachment-full size-full wp-image-977" decoding="async" height="502" sizes="(max-width: 600px) 100vw, 600px" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/item01.png" srcset="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/item01.png 600w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/item01-300x251.png 300w" width="600"/> </div>
+<img
+  alt=""
+  class="attachment-full size-full wp-image-977"
+  decoding="async"
+  height="502"
+  sizes="(max-width: 600px) 100vw, 600px"
+  src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png"
+  srcset="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png 600w"
+  width="600"
+/> </div>
 </div>
 <div class="elementor-element elementor-element-692a334 elementor-absolute elementor-widget elementor-widget-image" data-element_type="widget" data-id="692a334" data-settings='{"_position":"absolute","motion_fx_motion_fx_scrolling":"yes","motion_fx_translateY_effect":"yes","motion_fx_translateY_speed":{"unit":"px","size":1,"sizes":[]},"motion_fx_translateY_affectedRange":{"unit":"%","size":"","sizes":{"start":0,"end":100}},"motion_fx_devices":["desktop","tablet","mobile"]}' data-widget_type="image.default">
 <div class="elementor-widget-container">
