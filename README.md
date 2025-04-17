@@ -29,7 +29,7 @@
 <meta content="summary_large_image" name="twitter:card"/>
 <meta content="Nord Tax-절세 전략" name="twitter:title"/>
 <meta content="회계사와 세무사가 인공지능을 활용하여 최고의 절세방안을 제시해드립니다." name="twitter:description"/>
-<meta content="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png" name="twitter:image"/>
+<meta content="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light2.png" name="twitter:image"/>
 <meta content="작성자" name="twitter:label1"/>
 <meta content="Nord Tax" name="twitter:data1"/>
 <meta content="읽을 시간" name="twitter:label2"/>
@@ -176,28 +176,28 @@ body, body * {
   <img
     alt="Nord Tax - 절세 전략 02"
     class="uicore uicore-logo uicore-main"
-    src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"
+    src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light2.png"
     style="width:260px; height:auto;"
   />
   <!-- 데스크탑 스크롤 후 로고 (220px) -->
   <img
     alt="Nord Tax - 절세 전략 02"
     class="uicore uicore-logo uicore-second"
-    src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"
+    src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light2.png"
     style="width:220px; height:auto;"
   />
   <!-- 모바일 메인 로고 (180px) -->
   <img
     alt="Nord Tax - 절세 전략 02"
     class="uicore uicore-logo uicore-mobile-main"
-    src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"
+    src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light2.png"
     style="width:180px; height:auto;"
   />
   <!-- 모바일 스크롤 후 로고 (160px) -->
   <img
     alt="Nord Tax - 절세 전략 02"
     class="uicore uicore-logo uicore-mobile-second"
-    src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"
+    src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light2.png"
     style="width:160px; height:auto;"
   />
 </a>
