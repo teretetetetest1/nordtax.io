@@ -386,7 +386,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-da79f92 hover-subtext elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="da79f92" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>Maximize TSP deduction</p> </div>
+<p>Combat Zone Tax Exclusion<br>Spouse Tax Relief<br>Maximize TSP deduction</p> </div>
 </div>
 <div class="elementor-element elementor-element-0730079 elementor-absolute hover-box-img elementor-widget elementor-widget-image" data-element_type="widget" data-id="0730079" data-settings='{"_position":"absolute"}' data-widget_type="image.default">
 <div class="elementor-widget-container">
@@ -406,7 +406,7 @@ body, body * {
 <a class="elementor-element elementor-element-ce11b70 e-con-full aspect-1-1 hover-box e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="ce11b70" data-settings='{"animation":"fadeInUp","animation_delay":"400"}' href="/사업분야-디자인-1/">
 <div class="elementor-element elementor-element-c148dc6 hover-underline elementor-widget elementor-widget-heading" data-element_type="widget" data-id="c148dc6" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">J비자,F비자,E비자 홀</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">J비자,F비자,E비자</h3> </div>
 </div>
 <div class="elementor-element elementor-element-5c412fd elementor-absolute hover-box-img elementor-widget elementor-widget-image" data-element_type="widget" data-id="5c412fd" data-settings='{"_position":"absolute"}' data-widget_type="image.default">
 <div class="elementor-widget-container">
@@ -430,7 +430,7 @@ body, body * {
 <a class="elementor-element elementor-element-99303bc e-con-full aspect-1-1 hover-box e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="99303bc" data-settings='{"animation":"fadeInUp","animation_delay":"500"}' href="/사업분야-디자인-1/">
 <div class="elementor-element elementor-element-a7a00c2 hover-underline elementor-widget elementor-widget-heading" data-element_type="widget" data-id="a7a00c2" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">사 세금보고</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">비즈니스 세금보고</h3> </div>
 </div>
 <div class="elementor-element elementor-element-f0d16d5 elementor-absolute hover-box-img elementor-widget elementor-widget-image" data-element_type="widget" data-id="f0d16d5" data-settings='{"_position":"absolute"}' data-widget_type="image.default">
 <div class="elementor-widget-container">
@@ -448,7 +448,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-fb0f4cb hover-subtext elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="fb0f4cb" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>가장 저렴한 비용으로 정확한 Tax return을 원하시는 분</p> </div>
+<p>가장 저렴한 비용으로 정확한<br>Tax return을 원하시는 분</p> </div>
 </div>
 </a>
 </div>
@@ -496,11 +496,11 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-01c6ab5 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="01c6ab5" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">정확한 계산산</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">정확한 계산</h3> </div>
 </div>
 <div class="elementor-element elementor-element-4a21481 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="4a21481" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>n명의 의사들이 환자들을 Cross check 하듯이<br> n명의 전문가가 Cross check 합니다.</p> </div>
+<p>의사들이 환자들을 Cross check 하듯이<br>전문가의 Cross check 합니다.</p> </div>
 </div>
 </div>
 </div>
@@ -568,7 +568,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-28cd5ba elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="28cd5ba" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>최종 검토단계에서 LLM을 사용하여 한번 더 체크합니다.</p> </div>
+<p>최종 검토단계에서 <br>LLM를 사용하여 한번 더 체크합니다.</p> </div>
 </div>
 </div>
 </div>
@@ -582,7 +582,7 @@ body, body * {
 <div class="elementor-element elementor-element-48a0d30 e-con-full e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="48a0d30" data-settings='{"background_background":"classic","animation":"zoomOutUp","animation_delay":"0"}'>
 <div class="elementor-element elementor-element-91344be elementor-widget elementor-widget-heading" data-element_type="widget" data-id="91344be" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">절세를 위한 최고의 솔루<br/>
+<h2 class="elementor-heading-title elementor-size-default">절세를 위한 최고의 솔루션<br/>
 Nord tax과 함께 하세요</h2> </div>
 </div>
 <div class="elementor-element elementor-element-3a2fb10 elementor-align-center elementor-widget elementor-widget-button" data-element_type="widget" data-id="3a2fb10" data-widget_type="button.default">
@@ -599,9 +599,6 @@ Nord tax과 함께 하세요</h2> </div>
 </div>
 </div>
 </div>
-</div>
-</main>
-</article>
 </div><!-- #primary -->
 </div><!-- #content -->
 <footer id="uicore-tb-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter">
