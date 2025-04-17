@@ -13,7 +13,7 @@
 <link href="https://onetenth2.mycafe24.com/" rel="canonical">
 <meta content="ko_KR" property="og:locale"/>
 <meta content="website" property="og:type"/>
-<meta content="Nord Tax - 절세 전략 02" property="og:title"/>
+<meta content="Nord Tax - 절세 전략" property="og:title"/>
 <meta content="CPA와 EA가 정확하고 저렴한, 최고의 Credit을 위한 Tax filing을 준비합니다." property="og:description"/>
 <meta content="https://onetenth2.mycafe24.com/" property="og:url"/>
 <meta content="Nord Tax - 비즈니스 01" property="og:site_name"/>
@@ -27,9 +27,9 @@
 <meta content="2024-09-21T21:55:52+09:00" property="article:published_time"/>
 <meta content="2025-02-17T12:12:28+09:00" property="article:modified_time"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Nord Tax - 절세 전략 02" name="twitter:title"/>
-<meta content="고퀄리티 맞춤형 웹사이트를 1/10 가격에 제공합니다. Nord Tax의 템플릿은 아름다운 UI/UX 디자인과 쉬운 관리가 가능하며, 추가 관리 비용 없이 최적의 웹사이트를 제공합니다" name="twitter:description"/>
-<meta content="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/teams-3man-1.jpg" name="twitter:image"/>
+<meta content="Nord Tax-절세 전략" name="twitter:title"/>
+<meta content="회계사와 세무사가 인공지능을 활용하여 최고의 절세방안을 제시해드립니다." name="twitter:description"/>
+<meta content="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png" name="twitter:image"/>
 <meta content="작성자" name="twitter:label1"/>
 <meta content="Nord Tax" name="twitter:data1"/>
 <meta content="읽을 시간" name="twitter:label2"/>
