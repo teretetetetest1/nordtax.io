@@ -243,15 +243,15 @@ body, body * {
 <div class="elementor-element elementor-element-e1dea69 e-con-full e-flex e-con e-child" data-element_type="container" data-id="e1dea69">
 <div class="elementor-element elementor-element-c49486f elementor-invisible elementor-widget elementor-widget-heading" data-element_type="widget" data-id="c49486f" data-settings='{"_animation":"fadeInUp","_animation_delay":"0"}' data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">완벽한 Tax Return</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">AI와 전문가가 함께하는 믿을 수 있는 세금신고</h2> </div>
 </div>
 <div class="elementor-element elementor-element-0ccf598 elementor-invisible elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0ccf598" data-settings='{"_animation":"fadeInUp","_animation_delay":"0"}' data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">Maximize Tax Deduction</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">LLM을 사용한 최고의 절세방안 도.</h2> </div>
 </div>
 <div class="elementor-element elementor-element-97da5f3 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="97da5f3" data-settings='{"_animation":"fadeInUp","_animation_delay":"300"}' data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>CPA와 EA가 완벽한 Tax return 을 준비해드립니다.</p> </div>
+<p>최소 3명의 회계·세무 전문가와 AI가 교차 검토하여 누락 없이, 오류 없이, 최대한 정확한 세금 신고를 보장합니다.</p> </div>
 </div>
 <div class="elementor-element elementor-element-11f9b7a elementor-invisible elementor-widget elementor-widget-button" data-element_type="widget" data-id="11f9b7a" data-settings='{"_animation":"fadeInUp","_animation_delay":"300"}' data-widget_type="button.default">
 <div class="elementor-widget-container">
@@ -346,12 +346,11 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-992bd5a elementor-invisible elementor-widget elementor-widget-heading" data-element_type="widget" data-id="992bd5a" data-settings='{"_animation":"fadeInUp","_animation_delay":"300"}' data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">클라이언트의<br/>
-절세를 위해 .</h2> </div>
-최선을 다합니다.</h2> </div>	
+<h2 class="elementor-heading-title elementor-size-default">기술과 전문성의 만남<br/>
+완벽한 세금 솔루션.</h2> </div>
 <div class="elementor-element elementor-element-a3acbac elementor-invisible elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="a3acbac" data-settings='{"_animation":"fadeInUp","_animation_delay":"600"}' data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>회계사와 세무사가 당신의 Tax Return을 준비합니다..</p><p>신뢰할 수 있는 전문가와 함께하세요.</p> </div>
+<p>Where technology meets expertise for perfect tax solutions.</p><p>Driven by Technology, Powered by Experts.</p> </div>
 </div>
 <div class="elementor-element elementor-element-3a5d3ba elementor-invisible elementor-widget elementor-widget-button" data-element_type="widget" data-id="3a5d3ba" data-settings='{"_animation":"fadeInUp","_animation_delay":"600"}' data-widget_type="button.default">
 <div class="elementor-widget-container">
@@ -372,7 +371,7 @@ body, body * {
 <div class="elementor-element elementor-element-5ba1c20 e-con-full e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="5ba1c20" data-settings='{"animation":"fadeInUp","animation_delay":"0"}'>
 <div class="elementor-element elementor-element-536afe8 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="536afe8" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<div class="elementor-heading-title elementor-size-default">어떤 Tax Firm을 찾으시나요?</div> </div>
+<div class="elementor-heading-title elementor-size-default">정답은 여기에 있습니다.</div> </div>
 </div>
 <div class="elementor-element elementor-element-45e6a91 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="45e6a91" data-widget_type="heading.default">
 <div class="elementor-widget-container">
@@ -407,7 +406,7 @@ body, body * {
 <a class="elementor-element elementor-element-ce11b70 e-con-full aspect-1-1 hover-box e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="ce11b70" data-settings='{"animation":"fadeInUp","animation_delay":"400"}' href="/사업분야-디자인-1/">
 <div class="elementor-element elementor-element-c148dc6 hover-underline elementor-widget elementor-widget-heading" data-element_type="widget" data-id="c148dc6" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">J,F,E비자 및 주재원</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">J비자,F비자,E비자 홀</h3> </div>
 </div>
 <div class="elementor-element elementor-element-5c412fd elementor-absolute hover-box-img elementor-widget elementor-widget-image" data-element_type="widget" data-id="5c412fd" data-settings='{"_position":"absolute"}' data-widget_type="image.default">
 <div class="elementor-widget-container">
@@ -425,13 +424,13 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-ee31951 hover-subtext elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="ee31951" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>한국과 미국의 동시세금보고가 필요하신 주재원을 위한 서비스</p> </div>
+<p>한국과 미국의 동시세금보고가 <br>필요하신 분들을 위한 서비스</p> </div>
 </div>
 </a>
 <a class="elementor-element elementor-element-99303bc e-con-full aspect-1-1 hover-box e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="99303bc" data-settings='{"animation":"fadeInUp","animation_delay":"500"}' href="/사업분야-디자인-1/">
 <div class="elementor-element elementor-element-a7a00c2 hover-underline elementor-widget elementor-widget-heading" data-element_type="widget" data-id="a7a00c2" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">General Form 1040</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">사 세금보고</h3> </div>
 </div>
 <div class="elementor-element elementor-element-f0d16d5 elementor-absolute hover-box-img elementor-widget elementor-widget-image" data-element_type="widget" data-id="f0d16d5" data-settings='{"_position":"absolute"}' data-widget_type="image.default">
 <div class="elementor-widget-container">
@@ -497,11 +496,11 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-01c6ab5 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="01c6ab5" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">정확신고</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">정확한 계산산</h3> </div>
 </div>
 <div class="elementor-element elementor-element-4a21481 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="4a21481" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>Nord Tax는 오차없이 촥! <br>신고해드립니다.</p> </div>
+<p>n명의 의사들이 환자들을 Cross check 하듯이<br> n명의 전문가가 Cross check 합니다.</p> </div>
 </div>
 </div>
 </div>
@@ -569,7 +568,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-28cd5ba elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="28cd5ba" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>최소 3명의 회계사와 세무사가 Crosscheck 을 진행하며, 마지막<br>단계에서 ai로 한번 더 체크합니다.</p> </div>
+<p>최종 검토단계에서 LLM을 사용하여 한번 더 체크합니다.</p> </div>
 </div>
 </div>
 </div>
@@ -583,7 +582,7 @@ body, body * {
 <div class="elementor-element elementor-element-48a0d30 e-con-full e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="48a0d30" data-settings='{"background_background":"classic","animation":"zoomOutUp","animation_delay":"0"}'>
 <div class="elementor-element elementor-element-91344be elementor-widget elementor-widget-heading" data-element_type="widget" data-id="91344be" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">비즈니스 성공을 위한 필수 절세 전략 솔루션<br/>
+<h2 class="elementor-heading-title elementor-size-default">절세를 위한 최고의 솔루<br/>
 Nord tax과 함께 하세요</h2> </div>
 </div>
 <div class="elementor-element elementor-element-3a2fb10 elementor-align-center elementor-widget elementor-widget-button" data-element_type="widget" data-id="3a2fb10" data-widget_type="button.default">
