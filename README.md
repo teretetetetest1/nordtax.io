@@ -478,7 +478,17 @@ body, body * {
 <div class="elementor-element elementor-element-69bdb2a e-con-full e-flex e-con e-child" data-element_type="container" data-id="69bdb2a">
 <div class="elementor-element elementor-element-96c47bc elementor-widget elementor-widget-image" data-element_type="widget" data-id="96c47bc" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<img alt="" class="attachment-large size-large wp-image-994" decoding="async" height="667" loading="lazy" sizes="(max-width: 1000px) 100vw, 1000px" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/teams-3man-1-1024x683.jpg" srcset="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/teams-3man-1-1024x683.jpg 1024w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/teams-3man-1-300x200.jpg 300w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/teams-3man-1-768x512.jpg 768w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/teams-3man-1-1536x1024.jpg 1536w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/teams-3man-1-650x433.jpg 650w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/teams-3man-1.jpg 1920w" width="1000"/> </div>
+<img
+  alt=""
+  class="attachment-large size-large wp-image-994"
+  decoding="async"
+  height="667"
+  loading="lazy"
+  sizes="(max-width: 1000px) 100vw, 1000px"
+  src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/wall1.jpg"
+  srcset="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/wall1.jpg 1000w"
+  width="1000"
+/> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-df2f867 e-con-full e-flex e-con e-child" data-element_type="container" data-id="df2f867" data-settings='{"background_background":"classic"}'>
@@ -488,11 +498,11 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-01c6ab5 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="01c6ab5" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">비용 효율적인 맞춤형 전략</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">정확신고</h3> </div>
 </div>
 <div class="elementor-element elementor-element-4a21481 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="4a21481" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>Nord Tax은 고가의 맞춤형 서비스를 합리적인 가격에 제공함으로써, 모든 규모의 사업자가 효과적인 절세 전략을 통해 매출을 증대할 수 있도록 지원합니다.</p> </div>
+<p>Nord Tax는 오차없이 촥! 신고해드립니다.</p> </div>
 </div>
 </div>
 </div>
@@ -502,7 +512,17 @@ body, body * {
 <div class="elementor-element elementor-element-0f2f681 e-con-full e-flex e-con e-child" data-element_type="container" data-id="0f2f681">
 <div class="elementor-element elementor-element-970cd0c elementor-widget elementor-widget-image" data-element_type="widget" data-id="970cd0c" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<img alt="" class="attachment-large size-large wp-image-806" decoding="async" height="1024" loading="lazy" sizes="(max-width: 875px) 100vw, 875px" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/ceo-01-1-875x1024.jpg" srcset="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/ceo-01-1-875x1024.jpg 875w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/ceo-01-1-256x300.jpg 256w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/ceo-01-1-768x899.jpg 768w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/ceo-01-1-556x650.jpg 556w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/ceo-01-1.jpg 1000w" width="875"/> </div>
+<img
+  alt=""
+  class="attachment-large size-large wp-image-994"
+  decoding="async"
+  height="667"
+  loading="lazy"
+  sizes="(max-width: 1000px) 100vw, 1000px"
+  src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/wall2.jpg"
+  srcset="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/wall2.jpg 1000w"
+  width="1000"
+/> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-7c8f13e e-con-full e-flex e-con e-child" data-element_type="container" data-id="7c8f13e" data-settings='{"background_background":"classic"}'>
@@ -512,11 +532,11 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-1ec4827 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="1ec4827" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">데이터 기반의 정밀 분석</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">세금절약</h3> </div>
 </div>
 <div class="elementor-element elementor-element-f3647f5 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="f3647f5" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>저희는 최신 기술을 활용하여 고객사의 시장과 소비자 행동을 정밀하게 분석합니다. 이를 바탕으로 최적화된 절세 전략 캠페인을 설계하여 높은 ROI를 보장합니다.</p> </div>
+<p>클라이언트의 모든 케이스를 건별로 분석하여 최고의 절세방안을 제시해드립니다.</p> </div>
 </div>
 </div>
 </div>
@@ -526,7 +546,17 @@ body, body * {
 <div class="elementor-element elementor-element-d34087a e-con-full e-flex e-con e-child" data-element_type="container" data-id="d34087a">
 <div class="elementor-element elementor-element-0ff8794 elementor-widget elementor-widget-image" data-element_type="widget" data-id="0ff8794" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<img alt="" class="attachment-large size-large wp-image-812" decoding="async" height="667" loading="lazy" sizes="(max-width: 1000px) 100vw, 1000px" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/teams03-1-1024x683.jpg" srcset="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/teams03-1-1024x683.jpg 1024w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/teams03-1-300x200.jpg 300w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/teams03-1-768x512.jpg 768w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/teams03-1-1536x1024.jpg 1536w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/teams03-1-650x433.jpg 650w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/teams03-1.jpg 1920w" width="1000"/> </div>
+<img
+  alt=""
+  class="attachment-large size-large wp-image-994"
+  decoding="async"
+  height="667"
+  loading="lazy"
+  sizes="(max-width: 1000px) 100vw, 1000px"
+  src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/wall3.jpg"
+  srcset="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/wall3.jpg 1000w"
+  width="1000"
+/> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-8ba3752 e-con-full e-flex e-con e-child" data-element_type="container" data-id="8ba3752" data-settings='{"background_background":"classic"}'>
@@ -536,11 +566,11 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-f4505b5 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="f4505b5" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">전담 전문가 팀과 지속적인 지원</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">정확한 처리</h3> </div>
 </div>
 <div class="elementor-element elementor-element-28cd5ba elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="28cd5ba" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>캠페인 실행부터 성과 분석까지 지속적인 지원과 피드백을 통해 고객사의 비즈니스 성장을 함께 이끌어갑니다.</p> </div>
+<p>최소 3명의 회계사와 세무사가 Crosscheck 을 진행하며, 마지막 단계에서 ai로 한번 더 체크합니다.</p> </div>
 </div>
 </div>
 </div>
