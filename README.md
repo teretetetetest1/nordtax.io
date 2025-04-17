@@ -171,11 +171,35 @@ body, body * {
 <div class="uicore uicore-navbar elementor-section elementor-section-boxed uicore-h-classic uicore-sticky ui-smart-sticky uicore-transparent" data-uils="header" data-uils-title="Header" id="wrapper-navbar" itemscope="" itemtype="http://schema.org/WebSite"><div class="uicore-header-wrapper">
 <nav class="uicore elementor-container">
 <div class="uicore-branding" data-uils="header-branding" data-uils-title="Site Logo">
-<a href="https://onetenth2.mycafe24.com/" rel="home">
-<img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-main" src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"/>
-<img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-second" src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"/>
-<img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-mobile-main" src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"/>
-<img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-mobile-second" src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"/>
+<a href="https://teretetetetest1.github.io/nord1.github.io/" rel="home">
+  <!-- 데스크탑 메인 로고 (260px) -->
+  <img
+    alt="Nord Tax - 절세 전략 02"
+    class="uicore uicore-logo uicore-main"
+    src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"
+    style="width:260px; height:auto;"
+  />
+  <!-- 데스크탑 스크롤 후 로고 (220px) -->
+  <img
+    alt="Nord Tax - 절세 전략 02"
+    class="uicore uicore-logo uicore-second"
+    src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"
+    style="width:220px; height:auto;"
+  />
+  <!-- 모바일 메인 로고 (180px) -->
+  <img
+    alt="Nord Tax - 절세 전략 02"
+    class="uicore uicore-logo uicore-mobile-main"
+    src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"
+    style="width:180px; height:auto;"
+  />
+  <!-- 모바일 스크롤 후 로고 (160px) -->
+  <img
+    alt="Nord Tax - 절세 전략 02"
+    class="uicore uicore-logo uicore-mobile-second"
+    src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"
+    style="width:160px; height:auto;"
+  />
 </a>
 </div>
 <!--헤드 메뉴
