@@ -29,7 +29,7 @@
 <meta content="summary_large_image" name="twitter:card"/>
 <meta content="Nord Tax-절세 전략" name="twitter:title"/>
 <meta content="회계사와 세무사가 인공지능을 활용하여 최고의 절세방안을 제시해드립니다." name="twitter:description"/>
-<meta content="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light2.png" name="twitter:image"/>
+<meta content="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png" name="twitter:image"/>
 <meta content="작성자" name="twitter:label1"/>
 <meta content="Nord Tax" name="twitter:data1"/>
 <meta content="읽을 시간" name="twitter:label2"/>
@@ -171,35 +171,11 @@ body, body * {
 <div class="uicore uicore-navbar elementor-section elementor-section-boxed uicore-h-classic uicore-sticky ui-smart-sticky uicore-transparent" data-uils="header" data-uils-title="Header" id="wrapper-navbar" itemscope="" itemtype="http://schema.org/WebSite"><div class="uicore-header-wrapper">
 <nav class="uicore elementor-container">
 <div class="uicore-branding" data-uils="header-branding" data-uils-title="Site Logo">
-<a href="https://teretetetetest1.github.io/nord1.github.io/" rel="home">
-  <!-- 데스크탑 메인 로고 (260px) -->
-  <img
-    alt="Nord Tax - 절세 전략 02"
-    class="uicore uicore-logo uicore-main"
-    src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light2.png"
-    style="width:260px; height:auto;"
-  />
-  <!-- 데스크탑 스크롤 후 로고 (220px) -->
-  <img
-    alt="Nord Tax - 절세 전략 02"
-    class="uicore uicore-logo uicore-second"
-    src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light2.png"
-    style="width:220px; height:auto;"
-  />
-  <!-- 모바일 메인 로고 (180px) -->
-  <img
-    alt="Nord Tax - 절세 전략 02"
-    class="uicore uicore-logo uicore-mobile-main"
-    src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light2.png"
-    style="width:180px; height:auto;"
-  />
-  <!-- 모바일 스크롤 후 로고 (160px) -->
-  <img
-    alt="Nord Tax - 절세 전략 02"
-    class="uicore uicore-logo uicore-mobile-second"
-    src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light2.png"
-    style="width:160px; height:auto;"
-  />
+<a href="https://onetenth2.mycafe24.com/" rel="home">
+<img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-main" src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"/>
+<img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-second" src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"/>
+<img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-mobile-main" src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"/>
+<img alt="Nord Tax - 절세 전략 02" class="uicore uicore-logo uicore-mobile-second" src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_light.png"/>
 </a>
 </div>
 <!--헤드 메뉴
@@ -378,8 +354,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-992bd5a elementor-invisible elementor-widget elementor-widget-heading" data-element_type="widget" data-id="992bd5a" data-settings='{"_animation":"fadeInUp","_animation_delay":"300"}' data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">기술과 전문성의 만남<br/>
-완벽한 세금 솔루션.</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">기술과 전문성의 만남<br/>완벽한 세금 솔루션</h2></div>
 <div class="elementor-element elementor-element-a3acbac elementor-invisible elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="a3acbac" data-settings='{"_animation":"fadeInUp","_animation_delay":"600"}' data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
 <p></p> </div>
@@ -438,7 +413,7 @@ body, body * {
 <a class="elementor-element elementor-element-ce11b70 e-con-full aspect-1-1 hover-box e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="ce11b70" data-settings='{"animation":"fadeInUp","animation_delay":"400"}' href="/사업분야-디자인-1/">
 <div class="elementor-element elementor-element-c148dc6 hover-underline elementor-widget elementor-widget-heading" data-element_type="widget" data-id="c148dc6" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">J비자,F비자,E비자</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">FATCA/FBAR</h3> </div>
 </div>
 <div class="elementor-element elementor-element-5c412fd elementor-absolute hover-box-img elementor-widget elementor-widget-image" data-element_type="widget" data-id="5c412fd" data-settings='{"_position":"absolute"}' data-widget_type="image.default">
 <div class="elementor-widget-container">
@@ -456,13 +431,13 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-ee31951 hover-subtext elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="ee31951" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>한국과 미국의 동시세금보고가 <br>필요하신 분들을 위한 서비스</p> </div>
+<p>해외소유 금융자산의 <br>신고가 필요하신 분들을 위한 서비스</p> </div>
 </div>
 </a>
 <a class="elementor-element elementor-element-99303bc e-con-full aspect-1-1 hover-box e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="99303bc" data-settings='{"animation":"fadeInUp","animation_delay":"500"}' href="/사업분야-디자인-1/">
 <div class="elementor-element elementor-element-a7a00c2 hover-underline elementor-widget elementor-widget-heading" data-element_type="widget" data-id="a7a00c2" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">비즈니스 세금보고</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">Business Management</h3> </div>
 </div>
 <div class="elementor-element elementor-element-f0d16d5 elementor-absolute hover-box-img elementor-widget elementor-widget-image" data-element_type="widget" data-id="f0d16d5" data-settings='{"_position":"absolute"}' data-widget_type="image.default">
 <div class="elementor-widget-container">
@@ -480,7 +455,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-fb0f4cb hover-subtext elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="fb0f4cb" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>가장 저렴한 비용으로 정확한<br>Tax return을 원하시는 분</p> </div>
+<p>가장 저렴한 비용으로 정확한<br>Bookkeeping & Tax Return</p> </div>
 </div>
 </a>
 </div>
@@ -528,11 +503,11 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-01c6ab5 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="01c6ab5" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">정확한 계산</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">Personalized</h3> </div>
 </div>
 <div class="elementor-element elementor-element-4a21481 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="4a21481" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>의사들의 Cross check 처럼<br>세법 전문가의 Cross check </p> </div>
+<p>개인에게 꼭 맞는 컨설팅 제공<br>365일 든든한 Finance 파트너</p> </div>
 </div>
 </div>
 </div>
@@ -562,11 +537,11 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-1ec4827 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="1ec4827" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">세금절약</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">Clear Explanation</h3> </div>
 </div>
 <div class="elementor-element elementor-element-f3647f5 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="f3647f5" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>클라이언트의 모든 케이스를<br> 하나씩 분석 <br>최적의 절세방안을 제시합니다.</p> </div>
+<p>복잡한 세금 내용도<br>쉽게 이해할 수 있도록 설명해주는</p> </div>
 </div>
 </div>
 </div>
@@ -596,11 +571,11 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-f4505b5 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="f4505b5" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">깔끔한 처리</h3> </div>
+<h3 class="elementor-heading-title elementor-size-default">Practical Advice</h3> </div>
 </div>
 <div class="elementor-element elementor-element-28cd5ba elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="28cd5ba" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>최종 검토단계에서 <br>인공지능의 Double-check.</p> </div>
+<p>합리적인 가격에 <br>신뢰를 더하는 서비스</p> </div>
 </div>
 </div>
 </div>
@@ -614,8 +589,8 @@ body, body * {
 <div class="elementor-element elementor-element-48a0d30 e-con-full e-flex elementor-invisible e-con e-child" data-element_type="container" data-id="48a0d30" data-settings='{"background_background":"classic","animation":"zoomOutUp","animation_delay":"0"}'>
 <div class="elementor-element elementor-element-91344be elementor-widget elementor-widget-heading" data-element_type="widget" data-id="91344be" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">절세를 위한 최고의 솔루션<br/>
-Nord tax과 함께 하세요</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">More Than Just Tax Filing – A Trusted Financial Partner<br/>
+Nord Tax offers personalized consulting based on a deep understanding of your situation</h2> </div>
 </div>
 <div class="elementor-element elementor-element-3a2fb10 elementor-align-center elementor-widget elementor-widget-button" data-element_type="widget" data-id="3a2fb10" data-widget_type="button.default">
 <div class="elementor-widget-container">
