@@ -10,12 +10,17 @@
 <title>Nord Tax</title><link as="image" data-rocket-preload="" fetchpriority="high" href="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png" imagesizes="(max-width: 600px) 100vw, 600px" imagesrcset="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png" rel="preload"/>
 <meta content="정확한, 저렴한 Tax Return" name="description">
 <meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots">
-<link href="https://teretetetetest1.github.io/nord_test_server/" rel="canonical">
+<!--<link href="https://teretetetetest1.github.io/nord_test_server/" rel="canonical">-->
+<link rel="canonical" href="https://nordtaxwith.me/">
+	
 <meta content="ko_KR" property="og:locale"/>
 <meta content="website" property="og:type"/>
 <meta content="Nord Tax - 절세 전략" property="og:title"/>
 <meta content="CPA와 EA가 정확하고 저렴한, 최고의 Credit을 위한 Tax filing을 준비합니다." property="og:description"/>
-<meta content="https://onetenth2.mycafe24.com/" property="og:url"/>
+
+<!--<meta content="https://onetenth2.mycafe24.com/" property="og:url"/>-->
+<meta property="og:url" content="https://nordtaxwith.me/"/>
+
 <meta content="Nord Tax - 비즈니스 01" property="og:site_name"/>
 <meta content="2025-02-17T12:12:28+09:00" property="og:updated_time"/>
 <meta content="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/ea_img1.png" property="og:image"/>
