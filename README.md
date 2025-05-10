@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html lang="ko-KR" prefix="og: https://ogp.me/ns#">
 <head>
 <meta charset="utf-8"/>
@@ -160,7 +158,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 
 				}
 			</style>
-</meta></meta><style>
+<style>
 body, body * {
     background-color: black !important;
     background-image: none !important;
@@ -337,28 +335,6 @@ body, body * {
 </div>
 </div>
 -->
-<div class="elementor-element elementor-element-1e2d338 elementor-absolute ep-parallax-effects-yes elementor-widget elementor-widget-image" data-element_type="widget" data-id="1e2d338" data-settings='{"_position":"absolute","ep_parallax_effects_show":"yes","motion_fx_motion_fx_scrolling":"yes","motion_fx_translateY_effect":"yes","motion_fx_translateY_direction":"negative","motion_fx_translateY_speed":{"unit":"px","size":2,"sizes":[]},"ep_parallax_effects_rotate_start":{"unit":"px","size":"","sizes":[]},"ep_parallax_effects_rotate_end":{"unit":"px","size":"","sizes":[]},"ep_parallax_effects_scale_start":{"unit":"px","size":1,"sizes":[]},"ep_parallax_effects_scale_end":{"unit":"px","size":1,"sizes":[]},"ep_parallax_effects_hue_value":{"unit":"px","size":"","sizes":[]},"ep_parallax_effects_sepia_value":{"unit":"px","size":1,"sizes":[]},"ep_parallax_effects_easing_value":{"unit":"px","size":1,"sizes":[]},"ep_parallax_effects_target":"self","motion_fx_translateY_affectedRange":{"unit":"%","size":"","sizes":{"start":0,"end":100}},"motion_fx_devices":["desktop","tablet","mobile"]}' data-widget_type="image.default">
-<div class="elementor-widget-container">
-<img alt="" class="attachment-full size-full wp-image-978" decoding="async" fetchpriority="high" height="578" sizes="(max-width: 600px) 100vw, 600px" src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png" srcset="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png" width="600"/> </div>
-</div>
-<div class="elementor-element elementor-element-1c2058f elementor-absolute elementor-widget elementor-widget-image" data-element_type="widget" data-id="1c2058f" data-settings='{"_position":"absolute","motion_fx_motion_fx_scrolling":"yes","motion_fx_translateY_effect":"yes","motion_fx_translateY_speed":{"unit":"px","size":3,"sizes":[]},"motion_fx_translateY_affectedRange":{"unit":"%","size":"","sizes":{"start":0,"end":100}},"motion_fx_devices":["desktop","tablet","mobile"]}' data-widget_type="image.default">
-<div class="elementor-widget-container">
-<img
-  alt=""
-  class="attachment-full size-full wp-image-977"
-  decoding="async"
-  height="502"
-  sizes="(max-width: 600px) 100vw, 600px"
-  src="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png"
-  srcset="https://raw.githubusercontent.com/teretetetetest1/nord1.github.io/main/nordtax_logo_dark.png 600w"
-  width="600"
-/> </div>
-</div>
-<div class="elementor-element elementor-element-692a334 elementor-absolute elementor-widget elementor-widget-image" data-element_type="widget" data-id="692a334" data-settings='{"_position":"absolute","motion_fx_motion_fx_scrolling":"yes","motion_fx_translateY_effect":"yes","motion_fx_translateY_speed":{"unit":"px","size":1,"sizes":[]},"motion_fx_translateY_affectedRange":{"unit":"%","size":"","sizes":{"start":0,"end":100}},"motion_fx_devices":["desktop","tablet","mobile"]}' data-widget_type="image.default">
-<div class="elementor-widget-container">
-<img alt="" class="attachment-full size-full wp-image-983" decoding="async" height="621" sizes="(max-width: 543px) 100vw, 543px" src="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/Ellipse-1.png" srcset="https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/Ellipse-1.png 543w, https://onetenth2.mycafe24.com/wp-content/uploads/2024/09/Ellipse-1-262x300.png 262w" width="543"/> </div>
-</div>
-</div>
 </div>
 <div class="elementor-element elementor-element-99ce86f e-flex e-con-boxed e-con e-parent" data-element_type="container" data-id="99ce86f" data-settings='{"background_background":"classic"}'>
 <div class="e-con-inner">
@@ -414,7 +390,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-45e6a91 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="45e6a91" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">절세를 위한 다양한 전략을 상담받아 보세요.</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">절세를 위한 다양한 전략! 상담받아 보세요</h2> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-61b32a6 e-con-full e-grid e-con e-child" data-element_type="container" data-id="61b32a6">
