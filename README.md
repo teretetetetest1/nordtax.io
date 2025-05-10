@@ -664,7 +664,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-c1dd603 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="c1dd603" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<div class="elementor-heading-title elementor-size-default">1234 virginia 1234</div> </div>
+<div class="elementor-heading-title elementor-size-default">Established in Fairfax VA 22033</div> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-baa1743 e-con-full e-flex e-con e-child" data-element_type="container" data-id="baa1743">
@@ -674,11 +674,11 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-b2b86ac elementor-widget elementor-widget-heading" data-element_type="widget" data-id="b2b86ac" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<div class="elementor-heading-title elementor-size-default">T. 010 1234 1234</div> </div>
+<div class="elementor-heading-title elementor-size-default">T.213-999-7828</div> </div>
 </div>
 <div class="elementor-element elementor-element-f3a8001 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="f3a8001" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<div class="elementor-heading-title elementor-size-default">F. 010 1234 1234</div> </div>
+<div class="elementor-heading-title elementor-size-default"></div> </div>
 </div>
 </div>
 </div>
@@ -760,13 +760,13 @@ body, body * {
 <div class="elementor-element elementor-element-9d2c721 e-con-full e-flex e-con e-child" data-element_type="container" data-id="9d2c721">
 <div class="elementor-element elementor-element-62182b1 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="62182b1" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<div class="elementor-heading-title elementor-size-default"><a href="/terms_page/privacy-policy/">개인정보처리방침</a></div> </div>
+<div class="elementor-heading-title elementor-size-default"><a href="/terms_page/privacy-policy/"></a></div> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-25c81b1 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="25c81b1" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>상호명: Nord Tax<br>대표: 안지홍 <br>사업자등록번호: 123123=123123
-<br/>주소: 1234 Virginia, 123123</br></br></p> </div>
+<p>Business name: Nord Tax<br>Partner: Ji Ahn <br>Business license no.2501032
+<br/></br></br></p> </div>
 </div>
 </div>
 </div>
