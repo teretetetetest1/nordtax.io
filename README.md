@@ -664,7 +664,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-c1dd603 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="c1dd603" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<div class="elementor-heading-title elementor-size-default">Established in Fairfax VA 22033</div> </div>
+<div class="elementor-heading-title elementor-size-default">Fairfax VA 22033</div> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-baa1743 e-con-full e-flex e-con e-child" data-element_type="container" data-id="baa1743">
@@ -765,8 +765,8 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-25c81b1 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="25c81b1" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>Business name: Nord Tax<br>Partner: Ji Ahn <br>Business license no.2501032
-<br/></br></br></p> </div>
+<p>Business name: Nord Tax<br>Partner: Ji Ahn <br>Business license number : 2501032
+</br></p> </div>
 </div>
 </div>
 </div>
