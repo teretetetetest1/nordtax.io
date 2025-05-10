@@ -549,7 +549,7 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-f3647f5 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="f3647f5" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>복잡한 세금 내용도<br>쉽게 이해할 수 있도록 설명해주는</p> </div>
+<p>복잡한 세금 내용도<br>쉽게 이해할 수 있는 설명</p> </div>
 </div>
 </div>
 </div>
