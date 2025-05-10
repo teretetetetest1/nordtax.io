@@ -766,7 +766,7 @@ body, body * {
 <div class="elementor-element elementor-element-25c81b1 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="25c81b1" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
 <p>Business name: Nord Tax<br>Partner: Ji Ahn <br>Business license number : 2501032
-</br></p> </div>
+</p> </div>
 </div>
 </div>
 </div>
