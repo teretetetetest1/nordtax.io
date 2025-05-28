@@ -1,3 +1,8 @@
+---
+layout: team_intro   
+title: meet the team
+permalink: /about/team/
+---
 
 <!doctype html>
 <html lang="ko-KR" prefix="og: https://ogp.me/ns#">
