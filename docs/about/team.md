@@ -1,5 +1,5 @@
 ---
-layout: team_intro   
+layout: null
 title: meet the team
 permalink: /about/team/
 ---
