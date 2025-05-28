@@ -370,7 +370,7 @@ body, body * {
 <div class="elementor-element elementor-element-3a5d3ba elementor-invisible elementor-widget elementor-widget-button" data-element_type="widget" data-id="3a5d3ba" data-settings='{"_animation":"fadeInUp","_animation_delay":"600"}' data-widget_type="button.default">
 <div class="elementor-widget-container">
 <div class="elementor-button-wrapper">
-<a class="elementor-button elementor-button-link elementor-size-sm" href="/인사말/">
+<a class="elementor-button elementor-button-link elementor-size-sm" href="/about/team.md">
 <span class="elementor-button-content-wrapper">
 <span class="elementor-button-text">Meet the team</span>
 </span>
