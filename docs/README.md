@@ -262,11 +262,11 @@ body, body * {
 </div>
 <div class="elementor-element elementor-element-0ccf598 elementor-invisible elementor-widget elementor-widget-heading" data-element_type="widget" data-id="0ccf598" data-settings='{"_animation":"fadeInUp","_animation_delay":"0"}' data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">Minimizing tax due with AI-support calculation</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">Minimizing tax due with <br>AI-support calculation</h2> </div>
 </div>
 <div class="elementor-element elementor-element-97da5f3 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="97da5f3" data-settings='{"_animation":"fadeInUp","_animation_delay":"300"}' data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>3 tax professionals cross-check <br>for precise tax filing</p> </div>
+<p>3 tax professionals' cross-check <br>for precise tax filing</p> </div>
 </div>
 <div
   class="elementor-element elementor-element-11f9b7a elementor-invisible elementor-widget elementor-widget-button"
@@ -365,7 +365,7 @@ body, body * {
 <h2 class="elementor-heading-title elementor-size-default">Meet our teams<br/>backed by AI&nbsp;agents</h2></div>
 <div class="elementor-element elementor-element-a3acbac elementor-invisible elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="a3acbac" data-settings='{"_animation":"fadeInUp","_animation_delay":"600"}' data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p></p> </div>
+<p></p> 
 </div>
 <div class="elementor-element elementor-element-3a5d3ba elementor-invisible elementor-widget elementor-widget-button" data-element_type="widget" data-id="3a5d3ba" data-settings='{"_animation":"fadeInUp","_animation_delay":"600"}' data-widget_type="button.default">
 <div class="elementor-widget-container">
@@ -584,8 +584,6 @@ body, body * {
 <div class="elementor-element elementor-element-28cd5ba elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="28cd5ba" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
 <p>Tailoring service<br>with affordable prices</p> </div>
-</div>
-</div>
 </div>
 </div>
 </div>
