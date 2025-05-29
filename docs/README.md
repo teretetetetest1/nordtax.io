@@ -365,7 +365,8 @@ body, body * {
 <h2 class="elementor-heading-title elementor-size-default">Meet our teams<br/>backed by AI&nbsp;agents</h2></div>
 <div class="elementor-element elementor-element-a3acbac elementor-invisible elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="a3acbac" data-settings='{"_animation":"fadeInUp","_animation_delay":"600"}' data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p></p> 
+<p></p>
+</div>
 </div>
 <div class="elementor-element elementor-element-3a5d3ba elementor-invisible elementor-widget elementor-widget-button" data-element_type="widget" data-id="3a5d3ba" data-settings='{"_animation":"fadeInUp","_animation_delay":"600"}' data-widget_type="button.default">
 <div class="elementor-widget-container">
