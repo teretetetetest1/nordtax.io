@@ -348,8 +348,8 @@ body, body * {
   height="667"
   loading="lazy"
   sizes="(max-width: 1000px) 100vw, 1000px"
-  src="https://github.com/teretetetetest1/nord1.github.io/raw/main/girl1_1000667.png"
-  srcset="https://github.com/teretetetetest1/nord1.github.io/raw/main/girl1_1000667.png 1000w"
+  src="https://github.com/teretetetetest1/nord1.github.io/raw/main/teams_1000667.png"
+  srcset="https://github.com/teretetetetest1/nord1.github.io/raw/main/teams_1000667.png"
   width="1000"
 />
 </div>
