@@ -214,7 +214,7 @@ body, body * {
   <div class="uicore-cta-wrapper">
     <a
       class="uicore-btn"
-      href="mailto:info@nordtaxwith.me"
+      href="https://forms.gle/nbeaPXKxcxn42E9E8"
       target="_blank"
       rel="noopener noreferrer"
     >
@@ -229,7 +229,7 @@ body, body * {
   <div class="uicore-cta-wrapper">
     <a
       class="uicore-btn"
-      href="mailto:info@nordtaxwith.me"
+      href="https://forms.gle/nbeaPXKxcxn42E9E8"
       target="_blank"
       rel="noopener noreferrer"
     >
@@ -279,7 +279,7 @@ body, body * {
     <div class="elementor-button-wrapper">
       <a
         class="elementor-button elementor-button-link elementor-size-sm"
-        href="mailto:info@nordtaxwith.me"
+        href="https://forms.gle/nbeaPXKxcxn42E9E8"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -609,7 +609,7 @@ We’ve got you covered — starting at $120.</h2> </div>
     <div class="elementor-button-wrapper">
       <a
         class="elementor-button elementor-button-link elementor-size-sm"
-        href="mailto:info@nordtaxwith.me"
+        href="https://forms.gle/nbeaPXKxcxn42E9E8"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -801,7 +801,7 @@ We’ve got you covered — starting at $120.</h2> </div>
 </ul>
 </li>
 </ul></div><div class="uicore uicore-extra" data-uils="header_extra" data-uils-title="Header Extras"> <div class="uicore-cta-wrapper">
-<a class="uicore-btn" href="mailto:info@nordtaxwith.me" target="_self">
+<a class="uicore-btn" href="https://forms.gle/nbeaPXKxcxn42E9E8" target="_self">
 <span class="elementor-button-text">
 						get a quote                    </span>
 </a>
